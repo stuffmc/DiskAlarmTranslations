@@ -1544,6 +1544,8 @@ support@diskalarm.com
 		</dict>
 		<key>pt_BR</key>
 		<dict>
+			<key>2 minutes</key>
+			<string>2 minutos</string>
 			<key>ADD_IN_MENU_BAR</key>
 			<string>Adicionar espaço livre na barra de menus</string>
 			<key>ADD_TO_LOGIN_ADD_IT</key>
@@ -1565,20 +1567,38 @@ support@diskalarm.com
 			<string>Você pode ocultar a janela a qualquer momento clicando email ⌘W.</string>
 			<key>ALERT_SURE_QUIT_TITLE</key>
 			<string>Tem certeza de que deseja encerrar?</string>
+			<key>About Disk Alarm</key>
+			<string>Sobre o Disk Alarm</string>
+			<key>Add a Volume</key>
+			<string>Adicionar um Volume</string>
+			<key>Automatically check every</key>
+			<string>Verificar automaticamente a cada</string>
 			<key>BUY_MAS</key>
 			<string>Comprar</string>
 			<key>BUY_MAS_TEXT</key>
 			<string>Disk Alarm para PowerPC é gratuito. Se você gostou dele, por favor considera apoiar o seu desenvolvimento através da compra da versão Intel na Mac App Store. Obrigado</string>
 			<key>BYTES</key>
 			<string>bytes</string>
+			<key>Bring All to Front</key>
+			<string>Trazer Todas para Frente</string>
 			<key>CALCULATING_SIZE</key>
 			<string>Calculando Tamanho...</string>
 			<key>CANCEL</key>
 			<string>Cancelar</string>
 			<key>CHECK_NOW_NO_TARGET</key>
 			<string>Nenhum volume foi configurado. Nada irá acontecer. Adicione pelo menos um volume...</string>
+			<key>Check Now</key>
+			<string>Verificar Agora</string>
+			<key>Close</key>
+			<string>Fechar</string>
 			<key>DONT_QUIT</key>
 			<string>Cancelar</string>
+			<key>Disk Alarm</key>
+			<string>Disk Alarm</string>
+			<key>Disk Alarm Help</key>
+			<string>Ajuda Disk Alarm</string>
+			<key>Display alarm when free space goes below:</key>
+			<string>Exibir alerta quando o espaço livre ficar abaixo de:</string>
 			<key>EMAIL_BODY</key>
 			<string>Oi,
 
@@ -1597,12 +1617,24 @@ support@diskalarm.com
 </string>
 			<key>EMAIL_SUBJECT</key>
 			<string>Disk Alarm: %@ restantes em %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Entrar em Tela Cheia</string>
 			<key>ERROR_CANT_GET_FREE_SIZE</key>
 			<string>Erro: Não foi possível obter o tamanho do sistema de arquivo!</string>
 			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
 			<string>Erro: Não foi possível obter o espaço livre do sistema de arquivo!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Salir da Tela Cheia</string>
+			<key>Enter Full Screen</key>
+			<string>Entrar em Tela Cheia</string>
 			<key>HIDE</key>
 			<string>Ocultar</string>
+			<key>Help</key>
+			<string>Ajuda</string>
+			<key>Hide Disk Alarm</key>
+			<string>Ocultar Disk Alarm</string>
+			<key>Hide Others</key>
+			<string>Ocultar Outros</string>
 			<key>LAST_CHECKED_SIZE</key>
 			<string>Última verificação em: %@</string>
 			<key>LEFT_ON_TOTAL_AT</key>
@@ -1611,17 +1643,33 @@ support@diskalarm.com
 			<string>minuto</string>
 			<key>MINUTES</key>
 			<string>%d minutos</string>
+			<key>Mail</key>
+			<string>Mail</string>
+			<key>Mailplane</key>
+			<string>Mailplane</string>
+			<key>Main Menu</key>
+			<string>Main Menu</string>
+			<key>Minimize</key>
+			<string>Minimizar</string>
 			<key>NEVER</key>
 			<string>Nunca</string>
 			<key>NOT_FOUND</key>
 			<string>Não encontrado</string>
+			<key>OtherViews</key>
+			<string>Outras Visualizações</string>
 			<key>PERMISSION_DENIED</key>
 			<string>Permissão Negada</string>
 			<key>PREFERENCES</key>
 			<string>Preferência...</string>
+			<key>Play sound when displaying alarm</key>
+			<string>Reproduzir som ao exibir alarme</string>
+			<key>Preferences…</key>
+			<string>Preferências…</string>
 			<key>QUIT</key>
 			<string>Encerrar</string>
 			<key>QUIT_DISK_ALARM</key>
+			<string>Encerrar Disk Alarm</string>
+			<key>Quit Disk Alarm</key>
 			<string>Encerrar Disk Alarm</string>
 			<key>RATE</key>
 			<string>Avalie</string>
@@ -1633,6 +1681,14 @@ support@diskalarm.com
 			<string>Ao removê-lo, este volume não pode ser mais verificado e todas as configurações associadas serão excluídas.</string>
 			<key>REMOVE_TARGET_TITLE</key>
 			<string>Você tem certeza de que deseja remover esse volume?</string>
+			<key>Send e-mail to</key>
+			<string>Enviar e-mail para</string>
+			<key>Services</key>
+			<string>Serviços</string>
+			<key>Show All</key>
+			<string>Mostrar Tudo</string>
+			<key>Sparrow</key>
+			<string>Sparrow</string>
 			<key>TARGET_NOT_FOUND</key>
 			<string>Volume não encontrado na última verificação.</string>
 			<key>TWEET</key>
@@ -1641,14 +1697,26 @@ support@diskalarm.com
 			<string>#Disk #Alarm acabou de me dizer que só tenho %@ de espaço livre em disco. Vejam só!</string>
 			<key>TWEET_TEXT</key>
 			<string>Você gostou do Disk Alarm? Vamos preparar um Tweet para espalhar o seu amor sobre ele. Só não vamos publicar por você!</string>
+			<key>Targets</key>
+			<string>Targets</string>
 			<key>UNDEFINED</key>
 			<string>Indefinido</string>
+			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+			<string>AVISO: O seu áudio está silenciado. Por favor, reative-o para o alarme funcionar.</string>
 			<key>WARNING_LOW_SOUND</key>
 			<string>Talvez você queira aumentar o volume um pouco mais para ouvir o alarme.</string>
 			<key>WARNING_MUTE</key>
 			<string>AVISO: O seu áudio está silenciado. Por favor, reative-o para o alarme funcionar.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Formato de endereço de e-mail inválido.</string>
+			<key>Window</key>
+			<string>Janela</string>
+			<key>Zoom</key>
+			<string>Ampliar/Reduzir</string>
+			<key>mail@example.com</key>
+			<string>mail@example.com</string>
+			<key>using</key>
+			<string>usando</string>
 		</dict>
 	</dict>
 	<key>HighlightMissingTranslations</key>
@@ -1663,12 +1731,12 @@ support@diskalarm.com
 			<string>../it.lproj</string>
 		</dict>
 		<key>MiscDirectory</key>
-		<string>/Volumes/T-Italian</string>
+		<string>/Volumes/BR-BrazilianPortuguese-pt</string>
 		<key>SourceDirectory</key>
 		<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj</string>
 	</dict>
 	<key>LastSelectedLanguage</key>
-	<string>it</string>
+	<string>pt_BR</string>
 	<key>OnlyShowEntriesWithoutTranslation</key>
 	<false/>
 	<key>SourceFiles</key>
@@ -1774,7 +1842,10 @@ support@diskalarm.com
 				<string>// =====</string>
 			</dict>
 			<key>dirtyFlags</key>
-			<dict/>
+			<dict>
+				<key>pt_BR</key>
+				<true/>
+			</dict>
 			<key>exportHashes</key>
 			<dict>
 				<key>de</key>
@@ -2154,6 +2225,8 @@ support@diskalarm.com
 			<key>dirtyFlags</key>
 			<dict>
 				<key>it</key>
+				<true/>
+				<key>pt_BR</key>
 				<true/>
 			</dict>
 			<key>exportHashes</key>
