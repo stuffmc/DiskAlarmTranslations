@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ForeignDicts</key>
+	<dict>
+		<key>de</key>
+		<dict>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Jetzt überprüfen</string>
+			<key>547.title</key>
+			<string>Automatisch überprüfen</string>
+			<key>570.title</key>
+			<string>Spiele Sound ab, sobald Alarm angezeigt wird</string>
+			<key>671.title</key>
+			<string>alle 2 Minuten</string>
+			<key>674.title</key>
+			<string>Main Menu</string>
+			<key>675.title</key>
+			<string>Window</string>
+			<key>676.title</key>
+			<string>Disk Alarm</string>
+			<key>677.title</key>
+			<string>Help</string>
+			<key>678.title</key>
+			<string>Help</string>
+			<key>679.title</key>
+			<string>Disk Alarm Help</string>
+			<key>680.title</key>
+			<string>Disk Alarm</string>
+			<key>681.title</key>
+			<string>About Disk Alarm</string>
+			<key>682.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>683.title</key>
+			<string>Show All</string>
+			<key>684.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>686.title</key>
+			<string>Preferences…</string>
+			<key>689.title</key>
+			<string>Services</string>
+			<key>691.title</key>
+			<string>Hide Others</string>
+			<key>692.title</key>
+			<string>Services</string>
+			<key>693.title</key>
+			<string>Window</string>
+			<key>694.title</key>
+			<string>About Disk Alarm</string>
+			<key>695.title</key>
+			<string>Bring All to Front</string>
+			<key>696.title</key>
+			<string>Zoom</string>
+			<key>697.title</key>
+			<string>Minimize</string>
+			<key>708.title</key>
+			<string>Close</string>
+			<key>710.title</key>
+			<string>Close</string>
+			<key>712.title</key>
+			<string>Añadir un Volumen</string>
+			<key>715.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>719.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>720.title</key>
+			<string>Volume hinzufügen</string>
+			<key>739.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>741.title</key>
+			<string>OtherViews</string>
+			<key>742.title</key>
+			<string>Mailplane</string>
+			<key>743.title</key>
+			<string>Mail</string>
+			<key>745.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>746.title</key>
+			<string>usando</string>
+			<key>747.title</key>
+			<string>OtherViews</string>
+			<key>748.title</key>
+			<string>Mailplane</string>
+			<key>749.title</key>
+			<string>Mail</string>
+			<key>751.title</key>
+			<string>Alarm anzeigen, wenn freier Speicher unter:</string>
+			<key>752.title</key>
+			<string>mit</string>
+			<key>753.title</key>
+			<string>E-Mail senden an</string>
+			<key>760.title</key>
+			<string>Sparrow</string>
+			<key>761.title</key>
+			<string>Enter Full Screen</string>
+			<key>764.ibShadowedToolTip</key>
+			<string>ATENCIÓN: Su sonido esta en Modo Silencio. Por favor encienda lo para oir la Alarma.</string>
+			<key>768.title</key>
+			<string>Sparrow</string>
+			<key>769.title</key>
+			<string>Enter Full Screen</string>
+			<key>772.ibShadowedToolTip</key>
+			<string>Achtung: Dein Ton ist momentan aus. Schalte den Ton ein, damit Disk Alarm gehört werden kann.</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Freien Platz in der Menüleiste addieren</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Hinzufügen</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Abbrechen</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Möchten Sie Disk Alarm zu Ihren Anmeldeobjekten hinzufügen? Disk Alarm wird dann automatisch beim Anmelden gestartet.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Zu den Anmeldeobjekten hinzufügen?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>Die gewählte Grenze des freien Platzes wurde erreicht. Löschen Sie nicht benötigte Dateien, um Platz zu schaffen. Alternativ können Sie die Grenze verschieben.</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Limit erreicht</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Wenn Sie Disk Alarm beenden, wird ihren freien Speicherplatz nicht mehr überwacht.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> Sie können auch nur das Fenster ausblenden mit ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Wollen Sie wircklich Disk Alarm beenden?</string>
+			<key>BUY_MAS</key>
+			<string>Kaufen</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm für PowerPC ist kostenlos. Wenn Sie es gut finden, würden wir uns über den Kauf der Intel-Version im Mac App Store freuen. Sie unterstützen damit die Weiterentwicklung. Danke!</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Größe wird berechnet...</string>
+			<key>CANCEL</key>
+			<string>Abbrechen</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Kein Volume ist konfiguriert. Fügen Sie eine Volume hinzu, um es zu überwachen.</string>
+			<key>DONT_QUIT</key>
+			<string>Abbrechen</string>
+			<key>EMAIL_BODY</key>
+			<string>Hi,
+
+ich bin’s, Disk Alarm, und informiere bevor es zu spät ist. Auf %@ ist das Limit erreicht:
+
+%@
+
+Sie sollten nicht benötigte Dateien löschen. Dieses E-Mail wird nicht erneut gesendet bis die Warnung auf Ihrem Mac bestätigt wird.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ frei.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: %@ frei auf %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Vollbildmodus beginnen</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Fehler: Volume-Größe kann nicht ermittelt werden</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Fehler: Freier Platz kann nicht ermittelt werden!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Vollbildmodus beenden</string>
+			<key>HIDE</key>
+			<string>Ausblenden</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Zuletzt überprüft: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ frei / %@ gesamt</string>
+			<key>MINUTE</key>
+			<string>jede Minute</string>
+			<key>MINUTES</key>
+			<string>alle %d Minuten</string>
+			<key>NEVER</key>
+			<string>Nie</string>
+			<key>NOT_FOUND</key>
+			<string>Nicht gefunden</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Keine Zugriffsberechtigung</string>
+			<key>PREFERENCES</key>
+			<string>Einstellungen...</string>
+			<key>QUIT</key>
+			<string>Beenden</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Disk Alarm Beenden</string>
+			<key>RATE</key>
+			<string>Bewerten</string>
+			<key>RATE_TEXT</key>
+			<string>Mögen Sie Disk Alarm? Wir würden uns sehr über eine gute Rezension im App Store freuen. Danke!
+</string>
+			<key>REMOVE</key>
+			<string>Entfernen</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>Das Volume wird dann nicht mehr überprüft und die Disk Alarm-Einstellungen für dieses Volume werden gelöscht.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Möchten Sie das Volume entfernen?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volume nicht gefunden bei letzter Überprüfung.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm hat mir gerade mitgeteilt, ich habe nur noch %@ frei auf meiner Festplatte. Schau's Dir an!</string>
+			<key>TWEET_TEXT</key>
+			<string>Mögen Sie Disk Alarm und wollen Ihre Freude mit der Welt teilen? Hier ein Tweet-Vorschlag, das Senden übernehmen Sie!</string>
+			<key>UNDEFINED</key>
+			<string>Unbekannt</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>Achtung: Dein Ton ist momentan sehr leise. Stelle ihn evtl. etwas lauter, damit Disk Alarm gehört werden kann.</string>
+			<key>WARNING_MUTE</key>
+			<string>Achtung: Dein Ton ist momentan aus. Schalte den Ton ein, damit Disk Alarm gehört werden kann.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Ungültige E-Mail-Adresse</string>
+		</dict>
+		<key>en</key>
+		<dict>
+			<key>1003.title</key>
+			<string>Mailplane</string>
+			<key>1004.title</key>
+			<string>Enter Full Screen</string>
+			<key>1016.ibShadowedToolTip</key>
+			<string>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</string>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Check Now</string>
+			<key>547.title</key>
+			<string>Automatically check every</string>
+			<key>570.title</key>
+			<string>Play sound when displaying alarm</string>
+			<key>671.title</key>
+			<string>2 minutes</string>
+			<key>705.title</key>
+			<string>Main Menu</string>
+			<key>710.title</key>
+			<string>Help</string>
+			<key>711.title</key>
+			<string>Disk Alarm</string>
+			<key>712.title</key>
+			<string>Window</string>
+			<key>713.title</key>
+			<string>Window</string>
+			<key>714.title</key>
+			<string>Minimize</string>
+			<key>715.title</key>
+			<string>Zoom</string>
+			<key>716.title</key>
+			<string>Bring All to Front</string>
+			<key>718.title</key>
+			<string>Disk Alarm</string>
+			<key>719.title</key>
+			<string>Hide Others</string>
+			<key>721.title</key>
+			<string>Services</string>
+			<key>724.title</key>
+			<string>Preferences…</string>
+			<key>726.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>727.title</key>
+			<string>Show All</string>
+			<key>728.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>729.title</key>
+			<string>About Disk Alarm</string>
+			<key>730.title</key>
+			<string>Services</string>
+			<key>731.title</key>
+			<string>Help</string>
+			<key>732.title</key>
+			<string>Disk Alarm Help</string>
+			<key>862.title</key>
+			<string>Close</string>
+			<key>921.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>925.title</key>
+			<string>Add a Volume</string>
+			<key>959.title</key>
+			<string>OtherViews</string>
+			<key>960.title</key>
+			<string>Mail</string>
+			<key>961.title</key>
+			<string>Sparrow</string>
+			<key>964.title</key>
+			<string>Send e-mail to</string>
+			<key>969.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>971.title</key>
+			<string>using</string>
+			<key>999.title</key>
+			<string>Display alarm when free space goes below:</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Add free space in menu bar</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Add it</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Don't add it</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Do you want to add Disk Alarm to your Login Items? This will allow the app to always run when you start your computer.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Add To Login Items?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>You need to take action in order to get back to the limit you set up, or raise this limit by moving the slider.</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Limit Reached</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>If you quit Disk Alarm, the application won't check your disk space anymore.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> You can also only hide the window at any time by hitting ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Are you sure you want to quit?</string>
+			<key>BUY_MAS</key>
+			<string>Buy</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm for PowerPC is free. If you like it, please consider supporting its development by purchasing its Intel version on the Mac App Store. Thanks</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Calculating Size...</string>
+			<key>CANCEL</key>
+			<string>Cancel</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>No volume is configured. Nothing will happen. Add at least one volume...</string>
+			<key>DONT_QUIT</key>
+			<string>Cancel</string>
+			<key>EMAIL_BODY</key>
+			<string>Hi,
+
+it's me, Disk Alarm, telling you before it's too late. On %@, some limit are being reached:
+
+%@
+
+Maybe you should take some action. This email won't be sent again until you click dismiss the alert on the machine. You might wanna log on to your Computer.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ left.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: %@ left on %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Enter Fullscreen</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Error occured: Can't get File System Size!</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Error occured: Can't get File System Free Space!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Exit Fullscreen</string>
+			<key>HIDE</key>
+			<string>Hide</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Last checked: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ left / %@ total</string>
+			<key>MINUTE</key>
+			<string>minute</string>
+			<key>MINUTES</key>
+			<string>%d minutes</string>
+			<key>NEVER</key>
+			<string>Never</string>
+			<key>NOT_FOUND</key>
+			<string>Not found</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Permission Denied</string>
+			<key>PREFERENCES</key>
+			<string>Preferences...</string>
+			<key>QUIT</key>
+			<string>Quit</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Quit Disk Alarm</string>
+			<key>RATE</key>
+			<string>Rate</string>
+			<key>RATE_TEXT</key>
+			<string>Do you like Disk Alarm? Please take a minute to Rate us on the Mac App Store, helping us to spread the love about it. Thanks!</string>
+			<key>REMOVE</key>
+			<string>Remove</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>In doing so, this volume won't be checked anymore, and all the settings associated to it for Disk Alarm will be deleted.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Are you sure you want to remove this volume?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volume not found when last checked.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm just told me I only had %@ of disk space left. Check it out!</string>
+			<key>TWEET_TEXT</key>
+			<string>Do you like Disk Alarm? We'll prepare a Tweet to spread your love about it. We won't post it for you though!</string>
+			<key>UNDEFINED</key>
+			<string>Undefined</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
+			<key>WARNING_MUTE</key>
+			<string>WARNING: Your sound is currently muted. Please unmute it for the Alarm to be heard.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Invalid email address format.</string>
+		</dict>
+		<key>es</key>
+		<dict>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Comprobar Ahora</string>
+			<key>547.title</key>
+			<string>Revisar automaticamente cada</string>
+			<key>570.title</key>
+			<string>Activar sonido de alerta</string>
+			<key>671.title</key>
+			<string>2 minutos</string>
+			<key>674.title</key>
+			<string>Main Menu</string>
+			<key>675.title</key>
+			<string>Help</string>
+			<key>676.title</key>
+			<string>Disk Alarm</string>
+			<key>677.title</key>
+			<string>Window</string>
+			<key>678.title</key>
+			<string>Window</string>
+			<key>679.title</key>
+			<string>Minimize</string>
+			<key>680.title</key>
+			<string>Zoom</string>
+			<key>681.title</key>
+			<string>Bring All to Front</string>
+			<key>683.title</key>
+			<string>Disk Alarm</string>
+			<key>684.title</key>
+			<string>Hide Others</string>
+			<key>686.title</key>
+			<string>Services</string>
+			<key>689.title</key>
+			<string>Preferences…</string>
+			<key>691.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>692.title</key>
+			<string>Show All</string>
+			<key>693.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>694.title</key>
+			<string>About Disk Alarm</string>
+			<key>695.title</key>
+			<string>Services</string>
+			<key>696.title</key>
+			<string>Help</string>
+			<key>697.title</key>
+			<string>Disk Alarm Help</string>
+			<key>708.title</key>
+			<string>Close</string>
+			<key>712.title</key>
+			<string>Añadir un Volumen</string>
+			<key>719.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>739.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>741.title</key>
+			<string>OtherViews</string>
+			<key>742.title</key>
+			<string>Mailplane</string>
+			<key>743.title</key>
+			<string>Mail</string>
+			<key>746.title</key>
+			<string>usando</string>
+			<key>747.title</key>
+			<string>Enviar E-mail a</string>
+			<key>749.title</key>
+			<string>Avisar cuando el espacio libre sea inferior a:</string>
+			<key>760.title</key>
+			<string>Sparrow</string>
+			<key>761.title</key>
+			<string>Enter Full Screen</string>
+			<key>764.ibShadowedToolTip</key>
+			<string>ATENCIÓN: Su sonido esta en Modo Silencio. Por favor encienda lo para oir la Alarma.</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Añade el espacio libre en la barra de menús</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Añadir</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>No añadir</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>¿Deseas añadir Disk Alarm a tus items de arranque? Esto permitirá a la aplicación arrancar automáticamente cada vez que inicies tu ordenador.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>¿Añadir a los items de arranque?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>Tienes que liberar espacio en tu disco duro para recuperar el límite seleccionado, o puedes aumentar el límite desplazando el manejador.</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Alcanzado el espacio límite libre</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Si sale de Disk Alarm, la aplicación no revisara automaticamente su espacio libre.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> También tiene la opción de ocultar solamente la ventana con ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>¿Seguro que deseas salir de Disk Alarm?</string>
+			<key>BUY_MAS</key>
+			<string>Compra</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm para PowerPC es gratis. Si te gusta, por favor considera ayudar a su desarrollo comprando la versión para Intel en la Mac App Store. Gracias</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Calculando tamaño...</string>
+			<key>CANCEL</key>
+			<string>Cancelar</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Ningún volumen configurado. Nada ocurrirá. Añade por lo menos un volumen...</string>
+			<key>DONT_QUIT</key>
+			<string>Cancelar</string>
+			<key>EMAIL_BODY</key>
+			<string>Hola, 
+
+soy yo, Disk Alarm, advirtiéndote antes de que sea demasiado tarde. En %@, estamos llegando al límite: 
+
+%@
+
+Quizá deberías hacer algo al respecto. No recibirás de nuevo este email de aviso hasta que no descartes la alerta en el equipo así que deberías mirar ahora tu ordenador.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: quedan %@ libres.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: ¡%@ queda libre en %@!</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Ocurrio un error: !No se ha podido determinar el tamaño de los archivos del sistema!</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Ocurrio un error: ¡No se ha podido determinar el espacio libre del sistema!</string>
+			<key>HIDE</key>
+			<string>Ocultar</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Ultima comprobación: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ libre / %@ total</string>
+			<key>MINUTE</key>
+			<string>minuto</string>
+			<key>MINUTES</key>
+			<string>%d minutos</string>
+			<key>NEVER</key>
+			<string>Nunca</string>
+			<key>NOT_FOUND</key>
+			<string>No encontrado</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Permission Denied</string>
+			<key>PREFERENCES</key>
+			<string>Preferencias...</string>
+			<key>QUIT</key>
+			<string>Salir</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Salir de Disk Alarm</string>
+			<key>RATE</key>
+			<string>Puntúa</string>
+			<key>RATE_TEXT</key>
+			<string>¿Te gusta Disk Alarm? Por favor tómate un minuto y puntúanos en el Mac App Store. ¡Gracias!</string>
+			<key>REMOVE</key>
+			<string>Quitar</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>Si lo haces, este volumen ya no será comprobado, y su configuración para Disk Alarm será borrada.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>¿Estás seguro de que quieres quitar este volumen?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volumen no encontrado en la última comprobación.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm me acaba de decir que solo tengo el %@ de espacio libre en disco. ¡Compruébalo!</string>
+			<key>TWEET_TEXT</key>
+			<string>¿Te gusta Disk Alarm? Prepararemos un tweet para que difundas tu amor por nosotros... ¡pero no lo publicaremos por ti!</string>
+			<key>UNDEFINED</key>
+			<string>Indefinido</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
+			<key>WARNING_MUTE</key>
+			<string>ATENCIÓN: Su sonido esta en Modo Silencio. Por favor encienda lo para oir la Alarma.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Dirección de email incorrecta</string>
+		</dict>
+		<key>fr</key>
+		<dict>
+			<key>1003.title</key>
+			<string>Mailplane</string>
+			<key>1004.title</key>
+			<string>Entrar em Tela Cheia</string>
+			<key>1016.ibShadowedToolTip</key>
+			<string>AVISO: O seu áudio está silenciado. Por favor, reative-o para o alarme funcionar.</string>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Vérifier maintenant</string>
+			<key>547.title</key>
+			<string>Vérifier automatiquement toutes les</string>
+			<key>570.title</key>
+			<string>Jouer un son lorsque l'alarme s'affiche</string>
+			<key>671.title</key>
+			<string>2 minutes</string>
+			<key>674.title</key>
+			<string>Main Menu</string>
+			<key>675.title</key>
+			<string>Aide</string>
+			<key>676.title</key>
+			<string>Disk Alarm</string>
+			<key>677.title</key>
+			<string>Fenêtre</string>
+			<key>678.title</key>
+			<string>Fenêtre</string>
+			<key>679.title</key>
+			<string>Placer dans le Dock</string>
+			<key>680.title</key>
+			<string>Réduire/agrandir</string>
+			<key>681.title</key>
+			<string>Tout ramener au premier plan</string>
+			<key>683.title</key>
+			<string>Disk Alarm</string>
+			<key>684.title</key>
+			<string>Masquer les autres</string>
+			<key>686.title</key>
+			<string>Services</string>
+			<key>689.title</key>
+			<string>Préférences…</string>
+			<key>691.title</key>
+			<string>Quitter Disk Alarm</string>
+			<key>692.title</key>
+			<string>Tout afficher</string>
+			<key>693.title</key>
+			<string>Masquer Disk Alarm</string>
+			<key>694.title</key>
+			<string>À propos de Disk Alarm</string>
+			<key>695.title</key>
+			<string>Services</string>
+			<key>696.title</key>
+			<string>Aide</string>
+			<key>697.title</key>
+			<string>Aide Disk Alarm</string>
+			<key>705.title</key>
+			<string>Main Menu</string>
+			<key>709.title</key>
+			<string>Fermer</string>
+			<key>710.title</key>
+			<string>Help</string>
+			<key>711.title</key>
+			<string>Disk Alarm</string>
+			<key>712.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>712.title</key>
+			<string>Window</string>
+			<key>713.title</key>
+			<string>Window</string>
+			<key>714.title</key>
+			<string>Minimize</string>
+			<key>715.title</key>
+			<string>Zoom</string>
+			<key>716.title</key>
+			<string>Bring All to Front</string>
+			<key>718.title</key>
+			<string>Disk Alarm</string>
+			<key>719.title</key>
+			<string>Hide Others</string>
+			<key>721.title</key>
+			<string>Services</string>
+			<key>722.title</key>
+			<string>Ajouter un Volume</string>
+			<key>724.title</key>
+			<string>Preferences…</string>
+			<key>726.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>727.title</key>
+			<string>Show All</string>
+			<key>728.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>729.title</key>
+			<string>About Disk Alarm</string>
+			<key>730.title</key>
+			<string>Services</string>
+			<key>731.title</key>
+			<string>Help</string>
+			<key>732.title</key>
+			<string>Disk Alarm Help</string>
+			<key>746.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>748.title</key>
+			<string>OtherViews</string>
+			<key>749.title</key>
+			<string>Mailplane</string>
+			<key>750.title</key>
+			<string>Mail</string>
+			<key>751.title</key>
+			<string>avec</string>
+			<key>752.title</key>
+			<string>Envoyer un e-mail à</string>
+			<key>767.title</key>
+			<string>Afficher l'alarme lorsqu'il reste moins de :</string>
+			<key>769.title</key>
+			<string>Sparrow</string>
+			<key>770.title</key>
+			<string>Activer le mode plein écran</string>
+			<key>773.ibShadowedToolTip</key>
+			<string>ATTENTION: Votre son est actuellement en Mode Silence. Merci de l'activer pour que l'Alarme soit audible.</string>
+			<key>862.title</key>
+			<string>Close</string>
+			<key>920.ibShadowedToolTip</key>
+			<string>Watch a Volume, Folder, or File...</string>
+			<key>921.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>925.title</key>
+			<string>Aggiungi un disco</string>
+			<key>959.title</key>
+			<string>OtherViews</string>
+			<key>960.title</key>
+			<string>Mail</string>
+			<key>961.title</key>
+			<string>Sparrow</string>
+			<key>962.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>964.title</key>
+			<string>OtherViews</string>
+			<key>965.title</key>
+			<string>Mailplane</string>
+			<key>966.title</key>
+			<string>Mail</string>
+			<key>967.title</key>
+			<string>utilizza</string>
+			<key>968.title</key>
+			<string>Manda un e-mail a</string>
+			<key>969.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>971.title</key>
+			<string>usando</string>
+			<key>980.title</key>
+			<string>Mostra un avviso quando lo spazio libero scende sotto i:</string>
+			<key>981.title</key>
+			<string>Sparrow</string>
+			<key>982.title</key>
+			<string>Enter Full Screen</string>
+			<key>985.ibShadowedToolTip</key>
+			<string>ATTENZIONE: IL tuo volume è a zero. Per favore aumenta il volume per poter sentire l'allarme.</string>
+			<key>999.title</key>
+			<string>Exibir alerta quando o espaço livre ficar abaixo de:</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Ajouter l'espace libre à la barre des menus</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Ajouter</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Ne pas ajouter</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Voulez-vous lancer Disk Alarm au démarrage ? Cela permetra à l'application de toujours être lancée automatiquement après un redémarrage.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Lancer automatiquement au démarrage ?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>Vous devez libérer de l'espace sur votre disque dur afin de revenir en deça de la limite que vous avez sélectionné. Vous pouvez également augmenter cette limite en bougeant le curseur.</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Espace limite atteint</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Si vous quittez Disk Alarm, l'application ne vérifiera plus l'espace disque.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> Vous pouvez également simplement fermer la fenêtre en tappant ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Êtes-vous certain de vouloir quitter ?</string>
+			<key>BUY_MAS</key>
+			<string>Acheter</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm pour PowerPC est gratuit. Si vous aimez, merci de bien vouloir considérer de nous aider à son dévelopement en acheter sa version Intel sur le Mac App Store. Merci !</string>
+			<key>BYTES</key>
+			<string>octets</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Calcul de la taille...</string>
+			<key>CANCEL</key>
+			<string>Annuler</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Pas de volume configuré. Rien ne se passera. Ajoutez au moins un volume...</string>
+			<key>DONT_QUIT</key>
+			<string>Annuler</string>
+			<key>EMAIL_BODY</key>
+			<string>Salut,
+
+C'est moi, Disk Alarm, qui te préviens avant qu'il soit trop tard.
+
+Sur %@, certaines limites ont été atteintes :
+
+%@
+
+Peut-être que tu devrais agir. Cet email ne sera plus envoyé tant que tu n'as pas validé la boite de dialogue sur l'ordinateur. Tu devrais peut-être te connecter à cet ordinateur.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@ : %@ restants.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm : %@ restant sur %@ !</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Activer le mode plein écran</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Une erreur est survenue : Impossible d'obtenir la taille système !</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Une erreur est survenue : Impossible d'obtenir l'espace libre !</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Quitter le mode plein écran</string>
+			<key>HIDE</key>
+			<string>Cacher</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Vérifié dernièrement : %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ libre / %@ total</string>
+			<key>MINUTE</key>
+			<string>minutes</string>
+			<key>MINUTES</key>
+			<string>%d minutes</string>
+			<key>NEVER</key>
+			<string>Jamais</string>
+			<key>NOT_FOUND</key>
+			<string>Non trouvé</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Accès refusé</string>
+			<key>PREFERENCES</key>
+			<string>Préférences...</string>
+			<key>QUIT</key>
+			<string>Quitter</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Quitter Disk Alarm</string>
+			<key>RATE</key>
+			<string>Noter</string>
+			<key>RATE_TEXT</key>
+			<string>Vouz aimez Disk Alarm ? Merci de bien vouloir prendre une minute pour noter l'application et laisser un commentaire. Merci !</string>
+			<key>REMOVE</key>
+			<string>Enlever</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>En faisant cela, ce volume ne sera plus vérifé, et tout les réglages associés à celui ci pour Disk Alarm seront effacés.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Êtes-vous certain de vouloir enlever ce volume?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volume non trouvé lors de la dernière vérification.</string>
+			<key>TWEET</key>
+			<string>Tweeter</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm vient tout juste de me dire qu'il me restait %@ d'espace disque. Jetez-y un oeil !</string>
+			<key>TWEET_TEXT</key>
+			<string>Vouz aimez Disk Alarm ? Nous allons vous préparer un Tweet afin de propager votre amour. Nous ne validerons pas le Tweet pour vous cependant !</string>
+			<key>UNDEFINED</key>
+			<string>Indéfini</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>Il pourrait être utile d'augmenter quelque peu le son afin d'entendre plus clairement l'Alarme.</string>
+			<key>WARNING_MUTE</key>
+			<string>ATTENTION: Votre son est actuellement en Mode Silence. Merci de l'activer pour que l'Alarme soit audible.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Format d'adresse email invalide.</string>
+		</dict>
+		<key>it</key>
+		<dict>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Controlla ora</string>
+			<key>547.title</key>
+			<string>Controlla automaticamente ogni</string>
+			<key>570.title</key>
+			<string>Messaggio con suono</string>
+			<key>671.title</key>
+			<string>2 minutes</string>
+			<key>705.title</key>
+			<string>Main Menu</string>
+			<key>710.title</key>
+			<string>Help</string>
+			<key>711.title</key>
+			<string>Disk Alarm</string>
+			<key>712.title</key>
+			<string>Window</string>
+			<key>713.title</key>
+			<string>Window</string>
+			<key>714.title</key>
+			<string>Minimize</string>
+			<key>715.title</key>
+			<string>Zoom</string>
+			<key>716.title</key>
+			<string>Bring All to Front</string>
+			<key>718.title</key>
+			<string>Disk Alarm</string>
+			<key>719.title</key>
+			<string>Hide Others</string>
+			<key>721.title</key>
+			<string>Services</string>
+			<key>724.title</key>
+			<string>Preferences…</string>
+			<key>726.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>727.title</key>
+			<string>Show All</string>
+			<key>728.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>729.title</key>
+			<string>About Disk Alarm</string>
+			<key>730.title</key>
+			<string>Services</string>
+			<key>731.title</key>
+			<string>Help</string>
+			<key>732.title</key>
+			<string>Disk Alarm Help</string>
+			<key>862.title</key>
+			<string>Close</string>
+			<key>920.ibShadowedToolTip</key>
+			<string>Watch a Volume, Folder, or File...</string>
+			<key>921.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>925.title</key>
+			<string>Aggiungi un disco</string>
+			<key>962.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>964.title</key>
+			<string>OtherViews</string>
+			<key>965.title</key>
+			<string>Mailplane</string>
+			<key>966.title</key>
+			<string>Mail</string>
+			<key>967.title</key>
+			<string>utilizza</string>
+			<key>968.title</key>
+			<string>Manda un e-mail a</string>
+			<key>980.title</key>
+			<string>Mostra un avviso quando lo spazio libero scende sotto i:</string>
+			<key>981.title</key>
+			<string>Sparrow</string>
+			<key>982.title</key>
+			<string>Enter Full Screen</string>
+			<key>985.ibShadowedToolTip</key>
+			<string>ATTENZIONE: IL tuo volume è a zero. Per favore aumenta il volume per poter sentire l'allarme.</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Mostra lo spazio libero nella menu bar</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Aggiungi</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Non aggiungere</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Vuoi aggiungere Disk Alarm ai tuoi ai tuoi Elementi login? Questo permette a  Disk Alarm di eseguirsi quando accendi il tuo Mac.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Aggiungi al Login?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>Devi intraprendere un azione per tornare al limite da te definito o modificarlo spostando lo slider.
+</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Limite raggiunto</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Se chiudi Disk Alarm, l'applicazione non controllerà più il tuo disco.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> Puoi nascondere la finestra usando la combinazione di tasti ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Sei sicuro di voler chiudere?</string>
+			<key>BUY_MAS</key>
+			<string>Compra</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm per PowerPC è gratis. Se ti è piaciuto, pensa a supportare il suo sviluppo comprando la versione Intel sul Mac App Store. Grazie</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Calcolo la dimensione...</string>
+			<key>CANCEL</key>
+			<string>Cancella</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Non è stato selezionato nessun volume. Aggiungi un volume...</string>
+			<key>DONT_QUIT</key>
+			<string>Cancella</string>
+			<key>EMAIL_BODY</key>
+			<string>Ciao,
+
+sono io, Disk Alarm e ti volevo avvertire prima che sia troppo tardi. In %@, sono stati raggiunti dei limiti:
+
+%@
+
+Forse dovresti prendere dei provvedimenti. Questa email non ti verrà rispedita fino a che non disattiverai l'allarme sul tuo Mac. Dovresti verificare sul tuo computer.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ rimasto.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: %@ rimasto su %@!</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Errore: Non è possibile calcolare le dimensioni del File System!</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Errore: Non è possibile calcolare lo spazio libero del sistema!</string>
+			<key>HIDE</key>
+			<string>Nascondi</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Ultima verifica: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ rimasti / %@ totale</string>
+			<key>MINUTE</key>
+			<string>minuto</string>
+			<key>MINUTES</key>
+			<string>%d minuti</string>
+			<key>NEVER</key>
+			<string>Mai</string>
+			<key>NOT_FOUND</key>
+			<string>Mancante</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Permesso Rifiutato</string>
+			<key>PREFERENCES</key>
+			<string>Preferenze...</string>
+			<key>QUIT</key>
+			<string>Chiudi</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Chiudi Disk Alarm</string>
+			<key>RATE</key>
+			<string>Dai un giudizio</string>
+			<key>RATE_TEXT</key>
+			<string>Ti piace Disk Alarm? Perfavore incoraggia lo sviluppo di questa applicazione lasciando un commento sul Mac App Store. Grazie!</string>
+			<key>REMOVE</key>
+			<string>Rimuovi</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>In questo modo il volume selezionato non sarà più controllato e tutte le preferenze associate ad esso in Disk Alarm saranno cancellate.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Sei sicuro di voler rimuovere questo volume?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Il volume non è stato trovato quando è stato controllato l'ultima volta.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm mi ha appena detto che ho %@ di spazio libero sul disco. Guarda!</string>
+			<key>TWEET_TEXT</key>
+			<string>Ti piace Disk Alarm? Prepareremo un Tweet per diffondere il tuo gradimento ma non lo posteremo al posto tuo!</string>
+			<key>UNDEFINED</key>
+			<string>Indefinito</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>Che ne dici di alzare il volume per potter sentire meglio gli avvisi?.</string>
+			<key>WARNING_MUTE</key>
+			<string>ATTENZIONE: IL tuo volume è a zero. Per favore aumenta il volume per poter sentire l'allarme.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Il formato della mail inserito è errato.</string>
+		</dict>
+		<key>ja</key>
+		<dict>
+			<key>1003.title</key>
+			<string>Mailplane</string>
+			<key>1004.title</key>
+			<string>フルスクリーンにする</string>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>今、チェックする</string>
+			<key>547.title</key>
+			<string>自動的にチェックする。周期は</string>
+			<key>570.title</key>
+			<string>警告を表示するときに音を鳴らす</string>
+			<key>671.title</key>
+			<string>2分</string>
+			<key>705.title</key>
+			<string>メインメニュー</string>
+			<key>710.title</key>
+			<string>ヘルプ</string>
+			<key>711.title</key>
+			<string>Disk Alarm</string>
+			<key>712.title</key>
+			<string>ウインドウ</string>
+			<key>713.title</key>
+			<string>ウインドウ</string>
+			<key>714.title</key>
+			<string>しまう</string>
+			<key>715.title</key>
+			<string>拡大</string>
+			<key>716.title</key>
+			<string>すべてを手前に移動</string>
+			<key>718.title</key>
+			<string>Disk Alarm</string>
+			<key>719.title</key>
+			<string>ほかを隠す</string>
+			<key>721.title</key>
+			<string>サービス</string>
+			<key>724.title</key>
+			<string>環境設定…</string>
+			<key>726.title</key>
+			<string>Disk Alarm を終了</string>
+			<key>727.title</key>
+			<string>すべてを表示</string>
+			<key>728.title</key>
+			<string>Disk Alarm を隠す</string>
+			<key>729.title</key>
+			<string>Disk Alarm について</string>
+			<key>730.title</key>
+			<string>サービス</string>
+			<key>731.title</key>
+			<string>ヘルプ</string>
+			<key>732.title</key>
+			<string>Disk Alarm のヘルプ</string>
+			<key>862.title</key>
+			<string>閉じる</string>
+			<key>921.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>925.title</key>
+			<string>ボリュームの追加</string>
+			<key>959.title</key>
+			<string>OtherViews</string>
+			<key>960.title</key>
+			<string>Mail</string>
+			<key>961.title</key>
+			<string>Sparrow</string>
+			<key>964.title</key>
+			<string>メールを送る</string>
+			<key>969.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>971.title</key>
+			<string>使う</string>
+			<key>999.title</key>
+			<string>警告を表示するのは容量の空きが下回る:</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>メニューバーに空き容量を表示</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>追加する</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>追加しない</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Disk Alarm をあなたのログイン項目に追加しますか? あなたがコンピュータを使うとき、いつでもこのアプリケーションを利用できるようになります。</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>ログイン項目への追加?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>設定した上限に到達したので何らかの対処が必要です。あるいはスライダーを動かして上限をより大きな値にしてください。</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>上限に到達</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Disk Alarm を終了すると、ディスクの空き容量のチェックを行わなくなります。%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string>ウインドウを表示したくない場合はいつでも ⌘W をキータイプしてください。</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>終了の確認</string>
+			<key>BUY_MAS</key>
+			<string>購入</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>PowerPC 版の Disk Alarm は無料です。気に入っていただけたら、Mac App Store で Intel 対応版を購入し、開発者をサポートすることを検討してください。ありがとうございます。</string>
+			<key>BYTES</key>
+			<string>バイト</string>
+			<key>CALCULATING_SIZE</key>
+			<string>サイズの計算...</string>
+			<key>CANCEL</key>
+			<string>キャンセル</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>対象ボリュームが設定されていないので、何も行いません。少なくとも1つのボリュームを登録してください。</string>
+			<key>DONT_QUIT</key>
+			<string>キャンセル</string>
+			<key>EMAIL_BODY</key>
+			<string>こんにちわ。お知らせです。
+
+Disk Alarm は手遅れになる前に警告します。%@ において、上限に達しました。
+
+%@
+
+何らかの手を打つべきです。コンピュータで警告の解除をするまでこのメールは送り続けられます。コンピュータにログインして対処してください。
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ の空き.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: 空き容量は %@, 全容量は %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>フルスクリーンにする</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>エラー：ファイルシステムでのサイズが得られません。</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>エラー：ファイルシステムの空き容量が得られません。</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>フルスクリーンを解除</string>
+			<key>HIDE</key>
+			<string>隠す</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>最後にチェックしたサイズ: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ 空き / 全容量 %@</string>
+			<key>MINUTE</key>
+			<string>分</string>
+			<key>MINUTES</key>
+			<string>%d 分</string>
+			<key>NEVER</key>
+			<string>Never</string>
+			<key>NOT_FOUND</key>
+			<string>見つかりません</string>
+			<key>OK</key>
+			<string>保存</string>
+			<key>PERMISSION_DENIED</key>
+			<string>アクセスが拒否されました</string>
+			<key>PREFERENCES</key>
+			<string>環境設定...</string>
+			<key>QUIT</key>
+			<string>終了</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Disk Alarm の終了</string>
+			<key>RATE</key>
+			<string>評価</string>
+			<key>RATE_TEXT</key>
+			<string>Disk Alarm を気に入りましたか? Mac App Storeでの評価をお願いします。すぐに完了します。気に入ったことを皆に知らせてください。ありがとうございます。</string>
+			<key>REMOVE</key>
+			<string>取り除く</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>そうすればボリュームのチェックはしなくなります。そして、Disk Alarm に関連するすべての設定が削除されます。</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>このボリュームを取り除いてもいいですか?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>最後にチェックしたボリュームが見つかりません。</string>
+			<key>TWEET</key>
+			<string>ツィート</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm は、ディスクスペースのうち空いているのが %@ であることを知らせます。試してみませんか？</string>
+			<key>TWEET_TEXT</key>
+			<string>Disk Alarm を気に入りましたか? 気に入ったことをツィートできるようになっています。検討中であれば投稿はしません。</string>
+			<key>UNDEFINED</key>
+			<string>不明</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>音がもう少しよく聞こえるように音量を上げた方がいいでしょう。</string>
+			<key>WARNING_MUTE</key>
+			<string>警告：警告音は現在出なくなっています。警告音が聞こえるように音量を設定してください。</string>
+			<key>WRONG_EMAIL</key>
+			<string>メールアドレスの形式が不正</string>
+		</dict>
+		<key>nl</key>
+		<dict>
+			<key>371.title</key>
+			<string>Disk Alarm</string>
+			<key>536.title</key>
+			<string>Controleer Nu</string>
+			<key>547.title</key>
+			<string>Controleer automatisch elke</string>
+			<key>570.title</key>
+			<string>Geluid afspelen als het alarm wordt weergegeven</string>
+			<key>671.title</key>
+			<string>2 minuten</string>
+			<key>674.title</key>
+			<string>Main Menu</string>
+			<key>675.title</key>
+			<string>Window</string>
+			<key>676.title</key>
+			<string>Disk Alarm</string>
+			<key>677.title</key>
+			<string>Help</string>
+			<key>678.title</key>
+			<string>Help</string>
+			<key>679.title</key>
+			<string>Disk Alarm Help</string>
+			<key>680.title</key>
+			<string>Disk Alarm</string>
+			<key>681.title</key>
+			<string>About Disk Alarm</string>
+			<key>682.title</key>
+			<string>Hide Disk Alarm</string>
+			<key>683.title</key>
+			<string>Show All</string>
+			<key>684.title</key>
+			<string>Quit Disk Alarm</string>
+			<key>686.title</key>
+			<string>Preferences…</string>
+			<key>689.title</key>
+			<string>Services</string>
+			<key>691.title</key>
+			<string>Hide Others</string>
+			<key>692.title</key>
+			<string>Services</string>
+			<key>693.title</key>
+			<string>Window</string>
+			<key>695.title</key>
+			<string>Bring All to Front</string>
+			<key>696.title</key>
+			<string>Zoom</string>
+			<key>697.title</key>
+			<string>Minimize</string>
+			<key>710.title</key>
+			<string>Close</string>
+			<key>714.title</key>
+			<string>Volume Toevoegen</string>
+			<key>717.ibExternalAccessibilityDescription</key>
+			<string>Targets</string>
+			<key>744.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>746.title</key>
+			<string>OtherViews</string>
+			<key>747.title</key>
+			<string>Mailplane</string>
+			<key>748.title</key>
+			<string>Mail</string>
+			<key>749.title</key>
+			<string>met</string>
+			<key>750.title</key>
+			<string>E-mail sturen naar</string>
+			<key>763.title</key>
+			<string>Alarm als de schijfruimte minder is dan:</string>
+			<key>765.title</key>
+			<string>Sparrow</string>
+			<key>766.title</key>
+			<string>Enter Full Screen</string>
+			<key>779.ibShadowedToolTip</key>
+			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om de Alarm te horen.</string>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Vrije ruimte tonen in menu bar</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Toevoegen</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Niet toevoegen</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Wilt u Disk Alarm aan de Login Items toevoegen? Zo zal de applicatie automatisch opstarten bij het opstarten van uw computer.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Aan de login Items toevoegen?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>U moet meer vrije ruimte maken op uw harde schijf, of verleg de toegekende maximum limiet door de slider te verschuiven.</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Totale vrije ruimte opgebruikt</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Als u stoppt Disk Alarm, zou de applicatie de vrije ruimte niet meer controleeren.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string> U kunt ook aléén de venster verbergen met ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Weet u zeker dat u wilt stoppen?</string>
+			<key>BUY_MAS</key>
+			<string>Koop</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm voor PowerPC is gratis. Als je het nuttig vindt, overweeg dan alstublieft om de verdere ontwikkeling te steunen door de Intel-versie aan te kopen in de Mac App Store. Bedankt!</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Grootte berekenen</string>
+			<key>CANCEL</key>
+			<string>Annuleren</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Er zijn geen volumes geconfigureerd. Voeg tenminste één volume toe....</string>
+			<key>DONT_QUIT</key>
+			<string>Annuleer</string>
+			<key>EMAIL_BODY</key>
+			<string>Hallo,
+
+ik ben het, Disk Alarm, en ik kom je informatie geven voor het te laat is. Op %@ is een limiet bereikt:
+
+%@
+
+Je kunt hier best actie ondernemen. Dit bericht wordt niet meer gestuurd zolang je de melding op de machine niet sluit. Kijk dus best je computer na.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ vrij.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: %@ over op %@!</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Fout: Kan niet aan de File System grootte geraken!</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Fout: Kan niet aan de totale grootte van de File System geraken!</string>
+			<key>HIDE</key>
+			<string>Verbergen</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Laatste controle: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ vrij van totaal %@</string>
+			<key>MINUTE</key>
+			<string>minuut</string>
+			<key>MINUTES</key>
+			<string>%d minuten</string>
+			<key>NEVER</key>
+			<string>Nooit</string>
+			<key>NOT_FOUND</key>
+			<string>Not found</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Permission Denied</string>
+			<key>PREFERENCES</key>
+			<string>Voorkeuren...</string>
+			<key>QUIT</key>
+			<string>Stop</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Stop Disk Alarm</string>
+			<key>RATE</key>
+			<string>Geef beoordeling</string>
+			<key>RATE_TEXT</key>
+			<string>Vind je Disk Alarm leuk? Geef ons dan alstublieft een beoordeling in de Mac App Store. Bedankt!
+</string>
+			<key>REMOVE</key>
+			<string>Verwijderen</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>Als je dit doet, dan wordt dit volume niet meer gecontroleerd en dan worden alle settings ervan uit Disk Alarm verwijderd.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Ben je zeker dat je dit volume wil verwijderen?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volume werd niet gevonden bij laatste controle.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm liet me weten dat ik nog slechts %@ disk space over heb. Check it out!</string>
+			<key>TWEET_TEXT</key>
+			<string>Vind je Disk Alarm leuk? Gebruik dan deze Tweet om je waardering ervoor te verspreiden. We zullen het echter niet posten in jouw naam!</string>
+			<key>UNDEFINED</key>
+			<string>Ongedefini√©erd</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
+			<key>WARNING_MUTE</key>
+			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om de Alarm te horen.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Ongeldig e-mail adres</string>
+		</dict>
+		<key>pt_BR</key>
+		<dict>
+			<key>ADD_IN_MENU_BAR</key>
+			<string>Adicionar espaço livre na barra de menus</string>
+			<key>ADD_TO_LOGIN_ADD_IT</key>
+			<string>Adicionar</string>
+			<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+			<string>Não adicionar</string>
+			<key>ADD_TO_LOGIN_TEXT</key>
+			<string>Você quer adicionar Disk Alarm aos Itens de Início de Sessão? Isso permitirá que o aplicativo seja sempre executado quando o computador iniciar.</string>
+			<key>ADD_TO_LOGIN_TITLE</key>
+			<string>Adicionar aos Itens de Início de Sessão?</string>
+			<key>ALERT_REACHED_TEXT</key>
+			<string>Você precisa tomar medidas para voltar ao limite configurado, ou aumente o limite movendo o controle.
+</string>
+			<key>ALERT_REACHED_TITLE</key>
+			<string>Limite Alcançado</string>
+			<key>ALERT_SURE_QUIT_TEXT</key>
+			<string>Se você encerrar o Disk Alarm, o aplicativo não verificará o espaço no disco.%@</string>
+			<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+			<string>Você pode ocultar a janela a qualquer momento clicando email ⌘W.</string>
+			<key>ALERT_SURE_QUIT_TITLE</key>
+			<string>Tem certeza de que deseja encerrar?</string>
+			<key>BUY_MAS</key>
+			<string>Comprar</string>
+			<key>BUY_MAS_TEXT</key>
+			<string>Disk Alarm para PowerPC é gratuito. Se você gostou dele, por favor considera apoiar o seu desenvolvimento através da compra da versão Intel na Mac App Store. Obrigado</string>
+			<key>BYTES</key>
+			<string>bytes</string>
+			<key>CALCULATING_SIZE</key>
+			<string>Calculando Tamanho...</string>
+			<key>CANCEL</key>
+			<string>Cancelar</string>
+			<key>CHECK_NOW_NO_TARGET</key>
+			<string>Nenhum volume foi configurado. Nada irá acontecer. Adicione pelo menos um volume...</string>
+			<key>DONT_QUIT</key>
+			<string>Cancelar</string>
+			<key>EMAIL_BODY</key>
+			<string>Oi,
+
+sou eu, Disk Alarm, te avisando antes que seja tarde demais. O limite está sendo alcançado no volume %@:
+
+%@
+
+Talvez você deve tomar alguma medida. Este e-mail será enviado novamente até que você clique em dispensar o alerta, no seu computador. Talvez você queira se logar no seu computador.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+			<key>EMAIL_BODY_LINE</key>
+			<string>%@: %@ restantes.
+</string>
+			<key>EMAIL_SUBJECT</key>
+			<string>Disk Alarm: %@ restantes em %@!</string>
+			<key>ERROR_CANT_GET_FREE_SIZE</key>
+			<string>Erro: Não foi possível obter o tamanho do sistema de arquivo!</string>
+			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+			<string>Erro: Não foi possível obter o espaço livre do sistema de arquivo!</string>
+			<key>HIDE</key>
+			<string>Ocultar</string>
+			<key>LAST_CHECKED_SIZE</key>
+			<string>Última verificação em: %@</string>
+			<key>LEFT_ON_TOTAL_AT</key>
+			<string>%@ restantes / %@ total</string>
+			<key>MINUTE</key>
+			<string>minuto</string>
+			<key>MINUTES</key>
+			<string>%d minutos</string>
+			<key>NEVER</key>
+			<string>Nunca</string>
+			<key>NOT_FOUND</key>
+			<string>Não encontrado</string>
+			<key>PERMISSION_DENIED</key>
+			<string>Permissão Negada</string>
+			<key>PREFERENCES</key>
+			<string>Preferência...</string>
+			<key>QUIT</key>
+			<string>Encerrar</string>
+			<key>QUIT_DISK_ALARM</key>
+			<string>Encerrar Disk Alarm</string>
+			<key>RATE</key>
+			<string>Avalie</string>
+			<key>RATE_TEXT</key>
+			<string>Você gostou do Disk Alarm? Por favor, tire um minuto para avaliá-lo na Mac App Store. Obrigado!</string>
+			<key>REMOVE</key>
+			<string>Remover</string>
+			<key>REMOVE_TARGET_DESCR</key>
+			<string>Ao removê-lo, este volume não pode ser mais verificado e todas as configurações associadas serão excluídas.</string>
+			<key>REMOVE_TARGET_TITLE</key>
+			<string>Você tem certeza de que deseja remover esse volume?</string>
+			<key>TARGET_NOT_FOUND</key>
+			<string>Volume não encontrado na última verificação.</string>
+			<key>TWEET</key>
+			<string>Tweet</string>
+			<key>TWEET_MESSAGE</key>
+			<string>#Disk #Alarm acabou de me dizer que só tenho %@ de espaço livre em disco. Vejam só!</string>
+			<key>TWEET_TEXT</key>
+			<string>Você gostou do Disk Alarm? Vamos preparar um Tweet para espalhar o seu amor sobre ele. Só não vamos publicar por você!</string>
+			<key>UNDEFINED</key>
+			<string>Indefinido</string>
+			<key>WARNING_LOW_SOUND</key>
+			<string>Talvez você queira aumentar o volume um pouco mais para ouvir o alarme.</string>
+			<key>WARNING_MUTE</key>
+			<string>AVISO: O seu áudio está silenciado. Por favor, reative-o para o alarme funcionar.</string>
+			<key>WRONG_EMAIL</key>
+			<string>Formato de endereço de e-mail inválido.</string>
+		</dict>
+	</dict>
+	<key>HighlightMissingTranslations</key>
+	<true/>
+	<key>LastSelectedDirectories</key>
+	<dict>
+		<key>MiscDirectory</key>
+		<string>/Code/DiskAlarm/DiskAlarmMac/de.lproj</string>
+		<key>SourceDirectory</key>
+		<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj</string>
+	</dict>
+	<key>LastSelectedLanguage</key>
+	<string>de</string>
+	<key>OnlyShowEntriesWithoutTranslation</key>
+	<false/>
+	<key>SourceFiles</key>
+	<array>
+		<dict>
+			<key>comments</key>
+			<dict>
+				<key>ADD_IN_MENU_BAR</key>
+				<string>/* No comment */</string>
+				<key>ADD_TO_LOGIN_ADD_IT</key>
+				<string>/* No comment */</string>
+				<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+				<string>/* No comment */</string>
+				<key>ADD_TO_LOGIN_TEXT</key>
+				<string>/* No comment */</string>
+				<key>ADD_TO_LOGIN_TITLE</key>
+				<string>/* Alert displayed the first time the app runs to add the app to the login items */</string>
+				<key>ALERT_REACHED_TEXT</key>
+				<string>/* No comment */</string>
+				<key>ALERT_REACHED_TITLE</key>
+				<string>/* Message displayed when free space limit reached */</string>
+				<key>ALERT_SURE_QUIT_TEXT</key>
+				<string>/* No comment */</string>
+				<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+				<string>/* No comment */</string>
+				<key>ALERT_SURE_QUIT_TITLE</key>
+				<string>/* Message displayed when the user tries to close the main window by clicking on the red button */</string>
+				<key>BUY_MAS</key>
+				<string>/* No comment */</string>
+				<key>BUY_MAS_TEXT</key>
+				<string>/* No comment */</string>
+				<key>BYTES</key>
+				<string>/* No comment */</string>
+				<key>CALCULATING_SIZE</key>
+				<string>/* No comment */</string>
+				<key>CANCEL</key>
+				<string>/* No comment */</string>
+				<key>CHECK_NOW_NO_TARGET</key>
+				<string>/* No comment */</string>
+				<key>DONT_QUIT</key>
+				<string>/* No comment */</string>
+				<key>EMAIL_BODY</key>
+				<string>/* No comment */</string>
+				<key>EMAIL_BODY_LINE</key>
+				<string>/* No comment */</string>
+				<key>EMAIL_SUBJECT</key>
+				<string>/* No comment */</string>
+				<key>ENTER_FULL_SCREEN</key>
+				<string>/* NEW STRINGS IN 1.2.2 */</string>
+				<key>ERROR_CANT_GET_FREE_SIZE</key>
+				<string>/* No comment */</string>
+				<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+				<string>/* No comment */</string>
+				<key>EXIT_FULL_SCREEN</key>
+				<string>/* No comment */</string>
+				<key>HIDE</key>
+				<string>/* No comment */</string>
+				<key>LAST_CHECKED_SIZE</key>
+				<string>/* Last checked: 130 MB */</string>
+				<key>LEFT_ON_TOTAL_AT</key>
+				<string>/* 11.3 GB left / 240 GB total at 3:40 PM */</string>
+				<key>MINUTE</key>
+				<string>/* MainMenu.xib */</string>
+				<key>MINUTES</key>
+				<string>/* No comment */</string>
+				<key>NEVER</key>
+				<string>/* No comment */</string>
+				<key>NOT_FOUND</key>
+				<string>/* NEW STRINGS IN DISK ALARM 1.2 */</string>
+				<key>PERMISSION_DENIED</key>
+				<string>/* No comment */</string>
+				<key>PREFERENCES</key>
+				<string>/* No comment */</string>
+				<key>QUIT</key>
+				<string>/* No comment */</string>
+				<key>QUIT_DISK_ALARM</key>
+				<string>/* Menu Bar Item */</string>
+				<key>RATE</key>
+				<string>/* Rate &amp; Tweet */</string>
+				<key>RATE_TEXT</key>
+				<string>/* No comment */</string>
+				<key>REMOVE</key>
+				<string>/* No comment */</string>
+				<key>REMOVE_TARGET_DESCR</key>
+				<string>/* No comment */</string>
+				<key>REMOVE_TARGET_TITLE</key>
+				<string>/* No comment */</string>
+				<key>TARGET_NOT_FOUND</key>
+				<string>//"ONLY_VOLUMES_TEXT"             = "This version of Disk Alarm doesn't support Folders (or Files) checking. Be sure to check that you are running the latest version by visiting the App Store";</string>
+				<key>TWEET</key>
+				<string>/* No comment */</string>
+				<key>TWEET_MESSAGE</key>
+				<string>/* No comment */</string>
+				<key>TWEET_TEXT</key>
+				<string>/* No comment */</string>
+				<key>UNDEFINED</key>
+				<string>/* Calculated size - 'Undefined' is shown instead of a size if an error has occured */</string>
+				<key>WARNING_LOW_SOUND</key>
+				<string>/* No comment */</string>
+				<key>WARNING_MUTE</key>
+				<string>/* No comment */</string>
+				<key>WRONG_EMAIL</key>
+				<string>// =====</string>
+			</dict>
+			<key>dirtyFlags</key>
+			<dict/>
+			<key>exportHashes</key>
+			<dict/>
+			<key>nativeStrings</key>
+			<dict>
+				<key>ADD_IN_MENU_BAR</key>
+				<string>Add free space in menu bar</string>
+				<key>ADD_TO_LOGIN_ADD_IT</key>
+				<string>Add it</string>
+				<key>ADD_TO_LOGIN_DONT_ADD_IT</key>
+				<string>Don't add it</string>
+				<key>ADD_TO_LOGIN_TEXT</key>
+				<string>Do you want to add Disk Alarm to your Login Items? This will allow the app to always run when you start your computer.</string>
+				<key>ADD_TO_LOGIN_TITLE</key>
+				<string>Add To Login Items?</string>
+				<key>ALERT_REACHED_TEXT</key>
+				<string>You need to take action in order to get back to the limit you set up, or raise this limit by moving the slider.</string>
+				<key>ALERT_REACHED_TITLE</key>
+				<string>Limit Reached</string>
+				<key>ALERT_SURE_QUIT_TEXT</key>
+				<string>If you quit Disk Alarm, the application won't check your disk space anymore.%@</string>
+				<key>ALERT_SURE_QUIT_TEXT_HIDE</key>
+				<string> You can also only hide the window at any time by hitting ⌘W.</string>
+				<key>ALERT_SURE_QUIT_TITLE</key>
+				<string>Are you sure you want to quit?</string>
+				<key>BUY_MAS</key>
+				<string>Buy</string>
+				<key>BUY_MAS_TEXT</key>
+				<string>Disk Alarm for PowerPC is free. If you like it, please consider supporting its development by purchasing its Intel version on the Mac App Store. Thanks</string>
+				<key>BYTES</key>
+				<string>bytes</string>
+				<key>CALCULATING_SIZE</key>
+				<string>Calculating Size...</string>
+				<key>CANCEL</key>
+				<string>Cancel</string>
+				<key>CHECK_NOW_NO_TARGET</key>
+				<string>No volume is configured. Nothing will happen. Add at least one volume...</string>
+				<key>DONT_QUIT</key>
+				<string>Cancel</string>
+				<key>EMAIL_BODY</key>
+				<string>Hi,
+
+it's me, Disk Alarm, telling you before it's too late. On %@, some limit are being reached:
+
+%@
+
+Maybe you should take some action. This email won't be sent again until you click dismiss the alert on the machine. You might wanna log on to your Computer.
+
+http://diskalarm.com
+http://twitter.com/diskalarm
+support@diskalarm.com
+</string>
+				<key>EMAIL_BODY_LINE</key>
+				<string>%@: %@ left.
+</string>
+				<key>EMAIL_SUBJECT</key>
+				<string>Disk Alarm: %@ left on %@!</string>
+				<key>ENTER_FULL_SCREEN</key>
+				<string>Enter Fullscreen</string>
+				<key>ERROR_CANT_GET_FREE_SIZE</key>
+				<string>Error occured: Can't get File System Size!</string>
+				<key>ERROR_CANT_GET_TOTAL_SIZE</key>
+				<string>Error occured: Can't get File System Free Space!</string>
+				<key>EXIT_FULL_SCREEN</key>
+				<string>Exit Fullscreen</string>
+				<key>HIDE</key>
+				<string>Hide</string>
+				<key>LAST_CHECKED_SIZE</key>
+				<string>Last checked: %@</string>
+				<key>LEFT_ON_TOTAL_AT</key>
+				<string>%@ left / %@ total</string>
+				<key>MINUTE</key>
+				<string>minute</string>
+				<key>MINUTES</key>
+				<string>%d minutes</string>
+				<key>NEVER</key>
+				<string>Never</string>
+				<key>NOT_FOUND</key>
+				<string>Not found</string>
+				<key>PERMISSION_DENIED</key>
+				<string>Permission Denied</string>
+				<key>PREFERENCES</key>
+				<string>Preferences...</string>
+				<key>QUIT</key>
+				<string>Quit</string>
+				<key>QUIT_DISK_ALARM</key>
+				<string>Quit Disk Alarm</string>
+				<key>RATE</key>
+				<string>Rate</string>
+				<key>RATE_TEXT</key>
+				<string>Do you like Disk Alarm? Please take a minute to Rate us on the Mac App Store, helping us to spread the love about it. Thanks!</string>
+				<key>REMOVE</key>
+				<string>Remove</string>
+				<key>REMOVE_TARGET_DESCR</key>
+				<string>In doing so, this volume won't be checked anymore, and all the settings associated to it for Disk Alarm will be deleted.</string>
+				<key>REMOVE_TARGET_TITLE</key>
+				<string>Are you sure you want to remove this volume?</string>
+				<key>TARGET_NOT_FOUND</key>
+				<string>Volume not found when last checked.</string>
+				<key>TWEET</key>
+				<string>Tweet</string>
+				<key>TWEET_MESSAGE</key>
+				<string>#Disk #Alarm just told me I only had %@ of disk space left. Check it out!</string>
+				<key>TWEET_TEXT</key>
+				<string>Do you like Disk Alarm? We'll prepare a Tweet to spread your love about it. We won't post it for you though!</string>
+				<key>UNDEFINED</key>
+				<string>Undefined</string>
+				<key>WARNING_LOW_SOUND</key>
+				<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
+				<key>WARNING_MUTE</key>
+				<string>WARNING: Your sound is currently muted. Please unmute it for the Alarm to be heard.</string>
+				<key>WRONG_EMAIL</key>
+				<string>Invalid email address format.</string>
+			</dict>
+			<key>path</key>
+			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/Localizable.strings</string>
+			<key>referenceStyle</key>
+			<integer>1</integer>
+			<key>reparseHash</key>
+			<data>
+			iFb+uO+zhjrRFdnbZeI7kaabvhE=
+			</data>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<dict>
+				<key>1003.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Mailplane"; ObjectID = "1003"; */</string>
+				<key>1004.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1004"; */</string>
+				<key>1016.ibShadowedToolTip</key>
+				<string>/* Class = "NSButton"; ibShadowedToolTip = "WARNING: Your sound is currently muted. Please unmute it for the Alarm to work."; ObjectID = "1016"; */</string>
+				<key>371.title</key>
+				<string>/* Class = "NSWindow"; title = "Disk Alarm"; ObjectID = "371"; */</string>
+				<key>536.title</key>
+				<string>/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "536"; */</string>
+				<key>547.title</key>
+				<string>/* Class = "NSButtonCell"; title = "Automatically check every"; ObjectID = "547"; */</string>
+				<key>570.title</key>
+				<string>/* Class = "NSButtonCell"; title = "Play sound when displaying alarm"; ObjectID = "570"; */</string>
+				<key>671.title</key>
+				<string>/* Class = "NSTextFieldCell"; title = "2 minutes"; ObjectID = "671"; */</string>
+				<key>705.title</key>
+				<string>/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "705"; */</string>
+				<key>710.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Help"; ObjectID = "710"; */</string>
+				<key>711.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Disk Alarm"; ObjectID = "711"; */</string>
+				<key>712.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Window"; ObjectID = "712"; */</string>
+				<key>713.title</key>
+				<string>/* Class = "NSMenu"; title = "Window"; ObjectID = "713"; */</string>
+				<key>714.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "714"; */</string>
+				<key>715.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "715"; */</string>
+				<key>716.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "716"; */</string>
+				<key>718.title</key>
+				<string>/* Class = "NSMenu"; title = "Disk Alarm"; ObjectID = "718"; */</string>
+				<key>719.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "719"; */</string>
+				<key>721.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Services"; ObjectID = "721"; */</string>
+				<key>724.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "724"; */</string>
+				<key>726.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Quit Disk Alarm"; ObjectID = "726"; */</string>
+				<key>727.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "727"; */</string>
+				<key>728.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Hide Disk Alarm"; ObjectID = "728"; */</string>
+				<key>729.title</key>
+				<string>/* Class = "NSMenuItem"; title = "About Disk Alarm"; ObjectID = "729"; */</string>
+				<key>730.title</key>
+				<string>/* Class = "NSMenu"; title = "Services"; ObjectID = "730"; */</string>
+				<key>731.title</key>
+				<string>/* Class = "NSMenu"; title = "Help"; ObjectID = "731"; */</string>
+				<key>732.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Disk Alarm Help"; ObjectID = "732"; */</string>
+				<key>862.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Close"; ObjectID = "862"; */</string>
+				<key>921.ibExternalAccessibilityDescription</key>
+				<string>/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Targets"; ObjectID = "921"; */</string>
+				<key>925.title</key>
+				<string>/* Class = "NSButtonCell"; title = "Add a Volume"; ObjectID = "925"; */</string>
+				<key>959.title</key>
+				<string>/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "959"; */</string>
+				<key>960.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Mail"; ObjectID = "960"; */</string>
+				<key>961.title</key>
+				<string>/* Class = "NSMenuItem"; title = "Sparrow"; ObjectID = "961"; */</string>
+				<key>964.title</key>
+				<string>/* Class = "NSButtonCell"; title = "Send e-mail to"; ObjectID = "964"; */</string>
+				<key>969.placeholderString</key>
+				<string>/* Class = "NSTextFieldCell"; placeholderString = "mail@example.com"; ObjectID = "969"; */</string>
+				<key>971.title</key>
+				<string>/* Class = "NSTextFieldCell"; title = "using"; ObjectID = "971"; */</string>
+				<key>999.title</key>
+				<string>/* Class = "NSTextFieldCell"; title = "Display alarm when free space goes below:"; ObjectID = "999"; */</string>
+			</dict>
+			<key>dirtyFlags</key>
+			<dict/>
+			<key>exportHashes</key>
+			<dict/>
+			<key>nativeStrings</key>
+			<dict>
+				<key>1003.title</key>
+				<string>Mailplane</string>
+				<key>1004.title</key>
+				<string>Enter Full Screen</string>
+				<key>1016.ibShadowedToolTip</key>
+				<string>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</string>
+				<key>371.title</key>
+				<string>Disk Alarm</string>
+				<key>536.title</key>
+				<string>Check Now</string>
+				<key>547.title</key>
+				<string>Automatically check every</string>
+				<key>570.title</key>
+				<string>Play sound when displaying alarm</string>
+				<key>671.title</key>
+				<string>2 minutes</string>
+				<key>705.title</key>
+				<string>Main Menu</string>
+				<key>710.title</key>
+				<string>Help</string>
+				<key>711.title</key>
+				<string>Disk Alarm</string>
+				<key>712.title</key>
+				<string>Window</string>
+				<key>713.title</key>
+				<string>Window</string>
+				<key>714.title</key>
+				<string>Minimize</string>
+				<key>715.title</key>
+				<string>Zoom</string>
+				<key>716.title</key>
+				<string>Bring All to Front</string>
+				<key>718.title</key>
+				<string>Disk Alarm</string>
+				<key>719.title</key>
+				<string>Hide Others</string>
+				<key>721.title</key>
+				<string>Services</string>
+				<key>724.title</key>
+				<string>Preferences…</string>
+				<key>726.title</key>
+				<string>Quit Disk Alarm</string>
+				<key>727.title</key>
+				<string>Show All</string>
+				<key>728.title</key>
+				<string>Hide Disk Alarm</string>
+				<key>729.title</key>
+				<string>About Disk Alarm</string>
+				<key>730.title</key>
+				<string>Services</string>
+				<key>731.title</key>
+				<string>Help</string>
+				<key>732.title</key>
+				<string>Disk Alarm Help</string>
+				<key>862.title</key>
+				<string>Close</string>
+				<key>921.ibExternalAccessibilityDescription</key>
+				<string>Targets</string>
+				<key>925.title</key>
+				<string>Add a Volume</string>
+				<key>959.title</key>
+				<string>OtherViews</string>
+				<key>960.title</key>
+				<string>Mail</string>
+				<key>961.title</key>
+				<string>Sparrow</string>
+				<key>964.title</key>
+				<string>Send e-mail to</string>
+				<key>969.placeholderString</key>
+				<string>mail@example.com</string>
+				<key>971.title</key>
+				<string>using</string>
+				<key>999.title</key>
+				<string>Display alarm when free space goes below:</string>
+			</dict>
+			<key>path</key>
+			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/MainMenu.strings</string>
+			<key>referenceStyle</key>
+			<integer>1</integer>
+			<key>reparseHash</key>
+			<data>
+			VDOB9FE6GuepRTajLfNeyEnG2U4=
+			</data>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<dict>
+				<key>2 minutes</key>
+				<string>title</string>
+				<key>About Disk Alarm</key>
+				<string>title</string>
+				<key>Add a Volume</key>
+				<string>title</string>
+				<key>Automatically check every</key>
+				<string>title</string>
+				<key>Bring All to Front</key>
+				<string>title</string>
+				<key>Check Now</key>
+				<string>title</string>
+				<key>Close</key>
+				<string>title</string>
+				<key>Disk Alarm</key>
+				<string>title</string>
+				<key>Disk Alarm Help</key>
+				<string>title</string>
+				<key>Display alarm when free space goes below:</key>
+				<string>title</string>
+				<key>Enter Full Screen</key>
+				<string>title</string>
+				<key>Help</key>
+				<string>title</string>
+				<key>Hide Disk Alarm</key>
+				<string>title</string>
+				<key>Hide Others</key>
+				<string>title</string>
+				<key>Mail</key>
+				<string>title</string>
+				<key>Mailplane</key>
+				<string>title</string>
+				<key>Main Menu</key>
+				<string>title</string>
+				<key>Minimize</key>
+				<string>title</string>
+				<key>OtherViews</key>
+				<string>title</string>
+				<key>Play sound when displaying alarm</key>
+				<string>title</string>
+				<key>Preferences…</key>
+				<string>title</string>
+				<key>Quit Disk Alarm</key>
+				<string>title</string>
+				<key>Send e-mail to</key>
+				<string>title</string>
+				<key>Services</key>
+				<string>title</string>
+				<key>Show All</key>
+				<string>title</string>
+				<key>Sparrow</key>
+				<string>title</string>
+				<key>Targets</key>
+				<string>ibExternalAccessibilityDescription</string>
+				<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+				<string>ibShadowedToolTip</string>
+				<key>Window</key>
+				<string>title</string>
+				<key>Zoom</key>
+				<string>title</string>
+				<key>mail@example.com</key>
+				<string>placeholderString</string>
+				<key>using</key>
+				<string>title</string>
+			</dict>
+			<key>dirtyFlags</key>
+			<dict/>
+			<key>exportHashes</key>
+			<dict/>
+			<key>nativeStrings</key>
+			<dict>
+				<key>2 minutes</key>
+				<string>2 minutes</string>
+				<key>About Disk Alarm</key>
+				<string>About Disk Alarm</string>
+				<key>Add a Volume</key>
+				<string>Add a Volume</string>
+				<key>Automatically check every</key>
+				<string>Automatically check every</string>
+				<key>Bring All to Front</key>
+				<string>Bring All to Front</string>
+				<key>Check Now</key>
+				<string>Check Now</string>
+				<key>Close</key>
+				<string>Close</string>
+				<key>Disk Alarm</key>
+				<string>Disk Alarm</string>
+				<key>Disk Alarm Help</key>
+				<string>Disk Alarm Help</string>
+				<key>Display alarm when free space goes below:</key>
+				<string>Display alarm when free space goes below:</string>
+				<key>Enter Full Screen</key>
+				<string>Enter Full Screen</string>
+				<key>Help</key>
+				<string>Help</string>
+				<key>Hide Disk Alarm</key>
+				<string>Hide Disk Alarm</string>
+				<key>Hide Others</key>
+				<string>Hide Others</string>
+				<key>Mail</key>
+				<string>Mail</string>
+				<key>Mailplane</key>
+				<string>Mailplane</string>
+				<key>Main Menu</key>
+				<string>Main Menu</string>
+				<key>Minimize</key>
+				<string>Minimize</string>
+				<key>OtherViews</key>
+				<string>OtherViews</string>
+				<key>Play sound when displaying alarm</key>
+				<string>Play sound when displaying alarm</string>
+				<key>Preferences…</key>
+				<string>Preferences…</string>
+				<key>Quit Disk Alarm</key>
+				<string>Quit Disk Alarm</string>
+				<key>Send e-mail to</key>
+				<string>Send e-mail to</string>
+				<key>Services</key>
+				<string>Services</string>
+				<key>Show All</key>
+				<string>Show All</string>
+				<key>Sparrow</key>
+				<string>Sparrow</string>
+				<key>Targets</key>
+				<string>Targets</string>
+				<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+				<string>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</string>
+				<key>Window</key>
+				<string>Window</string>
+				<key>Zoom</key>
+				<string>Zoom</string>
+				<key>mail@example.com</key>
+				<string>mail@example.com</string>
+				<key>using</key>
+				<string>using</string>
+			</dict>
+			<key>path</key>
+			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/MainMenu.xib</string>
+			<key>referenceStyle</key>
+			<integer>1</integer>
+			<key>reparseHash</key>
+			<data>
+			5YSnxqs0eemiLye6dqERJG8/lxY=
+			</data>
+		</dict>
+	</array>
+</dict>
+</plist>
