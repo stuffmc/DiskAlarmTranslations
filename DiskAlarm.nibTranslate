@@ -479,6 +479,8 @@ support@diskalarm.com
 		</dict>
 		<key>es</key>
 		<dict>
+			<key>2 minutes</key>
+			<string>2 minutos</string>
 			<key>371.title</key>
 			<string>Disk Alarm</string>
 			<key>536.title</key>
@@ -573,20 +575,38 @@ support@diskalarm.com
 			<string> También tiene la opción de ocultar solamente la ventana con ⌘W.</string>
 			<key>ALERT_SURE_QUIT_TITLE</key>
 			<string>¿Seguro que deseas salir de Disk Alarm?</string>
+			<key>About Disk Alarm</key>
+			<string>Acerca de Disk Alarm</string>
+			<key>Add a Volume</key>
+			<string>Añadir un Volumen</string>
+			<key>Automatically check every</key>
+			<string>Revisar automaticamente cada</string>
 			<key>BUY_MAS</key>
 			<string>Compra</string>
 			<key>BUY_MAS_TEXT</key>
 			<string>Disk Alarm para PowerPC es gratis. Si te gusta, por favor considera ayudar a su desarrollo comprando la versión para Intel en la Mac App Store. Gracias</string>
 			<key>BYTES</key>
 			<string>bytes</string>
+			<key>Bring All to Front</key>
+			<string>Trazer Todas para Frente</string>
 			<key>CALCULATING_SIZE</key>
 			<string>Calculando tamaño...</string>
 			<key>CANCEL</key>
 			<string>Cancelar</string>
 			<key>CHECK_NOW_NO_TARGET</key>
 			<string>Ningún volumen configurado. Nada ocurrirá. Añade por lo menos un volumen...</string>
+			<key>Check Now</key>
+			<string>Comprobar Ahora</string>
+			<key>Close</key>
+			<string>Fechar</string>
 			<key>DONT_QUIT</key>
 			<string>Cancelar</string>
+			<key>Disk Alarm</key>
+			<string>Disk Alarm</string>
+			<key>Disk Alarm Help</key>
+			<string>Ayuda Disk Alarm</string>
+			<key>Display alarm when free space goes below:</key>
+			<string>Avisar cuando el espacio libre sea inferior a:</string>
 			<key>EMAIL_BODY</key>
 			<string>Hola, 
 
@@ -605,12 +625,24 @@ support@diskalarm.com
 </string>
 			<key>EMAIL_SUBJECT</key>
 			<string>Disk Alarm: ¡%@ queda libre en %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Usar pantalla completa</string>
 			<key>ERROR_CANT_GET_FREE_SIZE</key>
 			<string>Ocurrio un error: !No se ha podido determinar el tamaño de los archivos del sistema!</string>
 			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
 			<string>Ocurrio un error: ¡No se ha podido determinar el espacio libre del sistema!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Salir de pantalla completa</string>
+			<key>Enter Full Screen</key>
+			<string>Usar pantalla completa</string>
 			<key>HIDE</key>
 			<string>Ocultar</string>
+			<key>Help</key>
+			<string>Ayuda</string>
+			<key>Hide Disk Alarm</key>
+			<string>Ocultar Disk Alarm</string>
+			<key>Hide Others</key>
+			<string>Ocultar Outros</string>
 			<key>LAST_CHECKED_SIZE</key>
 			<string>Ultima comprobación: %@</string>
 			<key>LEFT_ON_TOTAL_AT</key>
@@ -619,17 +651,33 @@ support@diskalarm.com
 			<string>minuto</string>
 			<key>MINUTES</key>
 			<string>%d minutos</string>
+			<key>Mail</key>
+			<string>Mail</string>
+			<key>Mailplane</key>
+			<string>Mailplane</string>
+			<key>Main Menu</key>
+			<string>Main Menu</string>
+			<key>Minimize</key>
+			<string>Minimizar</string>
 			<key>NEVER</key>
 			<string>Nunca</string>
 			<key>NOT_FOUND</key>
 			<string>No encontrado</string>
+			<key>OtherViews</key>
+			<string>OtherViews</string>
 			<key>PERMISSION_DENIED</key>
 			<string>Permission Denied</string>
 			<key>PREFERENCES</key>
 			<string>Preferencias...</string>
+			<key>Play sound when displaying alarm</key>
+			<string>Activar sonido de alerta</string>
+			<key>Preferences…</key>
+			<string>Preferencias…</string>
 			<key>QUIT</key>
 			<string>Salir</string>
 			<key>QUIT_DISK_ALARM</key>
+			<string>Salir de Disk Alarm</string>
+			<key>Quit Disk Alarm</key>
 			<string>Salir de Disk Alarm</string>
 			<key>RATE</key>
 			<string>Puntúa</string>
@@ -641,6 +689,14 @@ support@diskalarm.com
 			<string>Si lo haces, este volumen ya no será comprobado, y su configuración para Disk Alarm será borrada.</string>
 			<key>REMOVE_TARGET_TITLE</key>
 			<string>¿Estás seguro de que quieres quitar este volumen?</string>
+			<key>Send e-mail to</key>
+			<string>Enviar E-mail a</string>
+			<key>Services</key>
+			<string>Servicios</string>
+			<key>Show All</key>
+			<string>Mostrar todo</string>
+			<key>Sparrow</key>
+			<string>Sparrow</string>
 			<key>TARGET_NOT_FOUND</key>
 			<string>Volumen no encontrado en la última comprobación.</string>
 			<key>TWEET</key>
@@ -649,14 +705,26 @@ support@diskalarm.com
 			<string>#Disk #Alarm me acaba de decir que solo tengo el %@ de espacio libre en disco. ¡Compruébalo!</string>
 			<key>TWEET_TEXT</key>
 			<string>¿Te gusta Disk Alarm? Prepararemos un tweet para que difundas tu amor por nosotros... ¡pero no lo publicaremos por ti!</string>
+			<key>Targets</key>
+			<string>Targets</string>
 			<key>UNDEFINED</key>
 			<string>Indefinido</string>
+			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+			<string>ATENCIÓN: Su sonido esta en Modo Silencio. Por favor encienda lo para oir la Alarma.</string>
 			<key>WARNING_LOW_SOUND</key>
 			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
 			<key>WARNING_MUTE</key>
 			<string>ATENCIÓN: Su sonido esta en Modo Silencio. Por favor encienda lo para oir la Alarma.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Dirección de email incorrecta</string>
+			<key>Window</key>
+			<string>Ventana</string>
+			<key>Zoom</key>
+			<string>Ampliar/Reduzir</string>
+			<key>mail@example.com</key>
+			<string>mail@example.com</string>
+			<key>using</key>
+			<string>usando</string>
 		</dict>
 		<key>fr</key>
 		<dict>
@@ -928,6 +996,8 @@ support@diskalarm.com
 			<string>ATTENTION: Votre son est actuellement en Mode Silence. Merci de l'activer pour que l'Alarme soit audible.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Format d'adresse email invalide.</string>
+			<key>using</key>
+			<string>utilizza</string>
 		</dict>
 		<key>it</key>
 		<dict>
@@ -1080,10 +1150,14 @@ support@diskalarm.com
 </string>
 			<key>EMAIL_SUBJECT</key>
 			<string>Disk Alarm: %@ rimasto su %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Attiva modalità a tutto schermo</string>
 			<key>ERROR_CANT_GET_FREE_SIZE</key>
 			<string>Errore: Non è possibile calcolare le dimensioni del File System!</string>
 			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
 			<string>Errore: Non è possibile calcolare lo spazio libero del sistema!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Disattiva modalità a tutto schermo</string>
 			<key>Enter Full Screen</key>
 			<string>Attiva modalità a tutto schermo</string>
 			<key>HIDE</key>
@@ -1127,7 +1201,7 @@ support@diskalarm.com
 			<key>QUIT</key>
 			<string>Chiudi</string>
 			<key>QUIT_DISK_ALARM</key>
-			<string>Chiudi Disk Alarm</string>
+			<string>Esci da Disk Alarm</string>
 			<key>Quit Disk Alarm</key>
 			<string>Esci da Disk Alarm</string>
 			<key>RATE</key>
@@ -1156,6 +1230,8 @@ support@diskalarm.com
 			<string>#Disk #Alarm mi ha appena detto che ho %@ di spazio libero sul disco. Guarda!</string>
 			<key>TWEET_TEXT</key>
 			<string>Ti piace Disk Alarm? Prepareremo un Tweet per diffondere il tuo gradimento ma non lo posteremo al posto tuo!</string>
+			<key>Targets</key>
+			<string>Targets</string>
 			<key>UNDEFINED</key>
 			<string>Indefinito</string>
 			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
@@ -1736,7 +1812,7 @@ support@diskalarm.com
 		<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj</string>
 	</dict>
 	<key>LastSelectedLanguage</key>
-	<string>pt_BR</string>
+	<string>es</string>
 	<key>OnlyShowEntriesWithoutTranslation</key>
 	<false/>
 	<key>SourceFiles</key>
@@ -1843,6 +1919,10 @@ support@diskalarm.com
 			</dict>
 			<key>dirtyFlags</key>
 			<dict>
+				<key>es</key>
+				<true/>
+				<key>it</key>
+				<true/>
 				<key>pt_BR</key>
 				<true/>
 			</dict>
@@ -2224,6 +2304,10 @@ support@diskalarm.com
 			</dict>
 			<key>dirtyFlags</key>
 			<dict>
+				<key>es</key>
+				<true/>
+				<key>fr</key>
+				<true/>
 				<key>it</key>
 				<true/>
 				<key>pt_BR</key>
