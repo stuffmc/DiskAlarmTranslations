@@ -1438,6 +1438,8 @@ support@diskalarm.com
 		</dict>
 		<key>nl</key>
 		<dict>
+			<key>2 minutes</key>
+			<string>2 minuten</string>
 			<key>371.title</key>
 			<string>Disk Alarm</string>
 			<key>536.title</key>
@@ -1532,20 +1534,38 @@ support@diskalarm.com
 			<string> U kunt ook aléén de venster verbergen met ⌘W.</string>
 			<key>ALERT_SURE_QUIT_TITLE</key>
 			<string>Weet u zeker dat u wilt stoppen?</string>
+			<key>About Disk Alarm</key>
+			<string>Over Disk Alarm</string>
+			<key>Add a Volume</key>
+			<string>Volume Toevoegen</string>
+			<key>Automatically check every</key>
+			<string>Controleer automatisch elke</string>
 			<key>BUY_MAS</key>
 			<string>Koop</string>
 			<key>BUY_MAS_TEXT</key>
 			<string>Disk Alarm voor PowerPC is gratis. Als je het nuttig vindt, overweeg dan alstublieft om de verdere ontwikkeling te steunen door de Intel-versie aan te kopen in de Mac App Store. Bedankt!</string>
 			<key>BYTES</key>
 			<string>bytes</string>
+			<key>Bring All to Front</key>
+			<string>Alles op voorgrond</string>
 			<key>CALCULATING_SIZE</key>
 			<string>Grootte berekenen</string>
 			<key>CANCEL</key>
 			<string>Annuleren</string>
 			<key>CHECK_NOW_NO_TARGET</key>
 			<string>Er zijn geen volumes geconfigureerd. Voeg tenminste één volume toe....</string>
+			<key>Check Now</key>
+			<string>Controleer Nu</string>
+			<key>Close</key>
+			<string>Sluit</string>
 			<key>DONT_QUIT</key>
 			<string>Annuleer</string>
+			<key>Disk Alarm</key>
+			<string>Disk Alarm</string>
+			<key>Disk Alarm Help</key>
+			<string>Disk Alarm Help</string>
+			<key>Display alarm when free space goes below:</key>
+			<string>Alarm als de schijfruimte minder is dan:</string>
 			<key>EMAIL_BODY</key>
 			<string>Hallo,
 
@@ -1564,12 +1584,24 @@ support@diskalarm.com
 </string>
 			<key>EMAIL_SUBJECT</key>
 			<string>Disk Alarm: %@ over op %@!</string>
+			<key>ENTER_FULL_SCREEN</key>
+			<string>Schakel schermvullende weergave in</string>
 			<key>ERROR_CANT_GET_FREE_SIZE</key>
 			<string>Fout: Kan niet aan de File System grootte geraken!</string>
 			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
 			<string>Fout: Kan niet aan de totale grootte van de File System geraken!</string>
+			<key>EXIT_FULL_SCREEN</key>
+			<string>Schakel schermvullende weergave uit</string>
+			<key>Enter Full Screen</key>
+			<string>Schakel schermvullende weergave in</string>
 			<key>HIDE</key>
 			<string>Verbergen</string>
+			<key>Help</key>
+			<string>Help</string>
+			<key>Hide Disk Alarm</key>
+			<string>Verberg Disk Alarm</string>
+			<key>Hide Others</key>
+			<string>Verberg andere</string>
 			<key>LAST_CHECKED_SIZE</key>
 			<string>Laatste controle: %@</string>
 			<key>LEFT_ON_TOTAL_AT</key>
@@ -1578,17 +1610,33 @@ support@diskalarm.com
 			<string>minuut</string>
 			<key>MINUTES</key>
 			<string>%d minuten</string>
+			<key>Mail</key>
+			<string>Mail</string>
+			<key>Mailplane</key>
+			<string>Mailplane</string>
+			<key>Main Menu</key>
+			<string>Main Menu</string>
+			<key>Minimize</key>
+			<string>Minimaliseer</string>
 			<key>NEVER</key>
 			<string>Nooit</string>
 			<key>NOT_FOUND</key>
 			<string>Not found</string>
+			<key>OtherViews</key>
+			<string>OtherViews</string>
 			<key>PERMISSION_DENIED</key>
 			<string>Permission Denied</string>
 			<key>PREFERENCES</key>
 			<string>Voorkeuren...</string>
+			<key>Play sound when displaying alarm</key>
+			<string>Geluid afspelen als het alarm wordt weergegeven</string>
+			<key>Preferences…</key>
+			<string>Voorkeuren…</string>
 			<key>QUIT</key>
 			<string>Stop</string>
 			<key>QUIT_DISK_ALARM</key>
+			<string>Stop Disk Alarm</string>
+			<key>Quit Disk Alarm</key>
 			<string>Stop Disk Alarm</string>
 			<key>RATE</key>
 			<string>Geef beoordeling</string>
@@ -1601,6 +1649,14 @@ support@diskalarm.com
 			<string>Als je dit doet, dan wordt dit volume niet meer gecontroleerd en dan worden alle settings ervan uit Disk Alarm verwijderd.</string>
 			<key>REMOVE_TARGET_TITLE</key>
 			<string>Ben je zeker dat je dit volume wil verwijderen?</string>
+			<key>Send e-mail to</key>
+			<string>E-mail sturen naar</string>
+			<key>Services</key>
+			<string>Voorzieningen</string>
+			<key>Show All</key>
+			<string>Toon alles</string>
+			<key>Sparrow</key>
+			<string>Sparrow</string>
 			<key>TARGET_NOT_FOUND</key>
 			<string>Volume werd niet gevonden bij laatste controle.</string>
 			<key>TWEET</key>
@@ -1609,14 +1665,26 @@ support@diskalarm.com
 			<string>#Disk #Alarm liet me weten dat ik nog slechts %@ disk space over heb. Check it out!</string>
 			<key>TWEET_TEXT</key>
 			<string>Vind je Disk Alarm leuk? Gebruik dan deze Tweet om je waardering ervoor te verspreiden. We zullen het echter niet posten in jouw naam!</string>
+			<key>Targets</key>
+			<string>Targets</string>
 			<key>UNDEFINED</key>
 			<string>Ongedefini√©erd</string>
+			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om de Alarm te horen.</string>
 			<key>WARNING_LOW_SOUND</key>
 			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
 			<key>WARNING_MUTE</key>
 			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om de Alarm te horen.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Ongeldig e-mail adres</string>
+			<key>Window</key>
+			<string>Venster</string>
+			<key>Zoom</key>
+			<string>Vergroot/verklein</string>
+			<key>mail@example.com</key>
+			<string>mail@example.com</string>
+			<key>using</key>
+			<string>met</string>
 		</dict>
 		<key>pt_BR</key>
 		<dict>
@@ -1807,12 +1875,12 @@ support@diskalarm.com
 			<string>../it.lproj</string>
 		</dict>
 		<key>MiscDirectory</key>
-		<string>/Volumes/BR-BrazilianPortuguese-pt</string>
+		<string>/Volumes/N-Dutch</string>
 		<key>SourceDirectory</key>
 		<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj</string>
 	</dict>
 	<key>LastSelectedLanguage</key>
-	<string>es</string>
+	<string>nl</string>
 	<key>OnlyShowEntriesWithoutTranslation</key>
 	<false/>
 	<key>SourceFiles</key>
@@ -1922,6 +1990,8 @@ support@diskalarm.com
 				<key>es</key>
 				<true/>
 				<key>it</key>
+				<true/>
+				<key>nl</key>
 				<true/>
 				<key>pt_BR</key>
 				<true/>
@@ -2309,6 +2379,8 @@ support@diskalarm.com
 				<key>fr</key>
 				<true/>
 				<key>it</key>
+				<true/>
+				<key>nl</key>
 				<true/>
 				<key>pt_BR</key>
 				<true/>
