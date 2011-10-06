@@ -6,6 +6,10 @@
 	<dict>
 		<key>de</key>
 		<dict>
+			<key>1003.title</key>
+			<string>Mailplane</string>
+			<key>1004.title</key>
+			<string>Vollbild ein</string>
 			<key>371.title</key>
 			<string>Disk Alarm</string>
 			<key>536.title</key>
@@ -56,18 +60,52 @@
 			<string>Zoom</string>
 			<key>697.title</key>
 			<string>Minimize</string>
+			<key>705.title</key>
+			<string>Main Menu</string>
 			<key>708.title</key>
 			<string>Close</string>
 			<key>710.title</key>
 			<string>Close</string>
+			<key>711.title</key>
+			<string>Disk Alarm</string>
 			<key>712.title</key>
 			<string>Añadir un Volumen</string>
+			<key>713.title</key>
+			<string>Fenster</string>
+			<key>714.title</key>
+			<string>Im Dock ablegen</string>
 			<key>715.ibExternalAccessibilityDescription</key>
 			<string>Targets</string>
+			<key>715.title</key>
+			<string>Zoomen</string>
+			<key>716.title</key>
+			<string>Alle nach vorne bringen</string>
+			<key>718.title</key>
+			<string>Disk Alarm</string>
 			<key>719.ibExternalAccessibilityDescription</key>
 			<string>Targets</string>
+			<key>719.title</key>
+			<string>Andere ausblenden</string>
 			<key>720.title</key>
 			<string>Volume hinzufügen</string>
+			<key>721.title</key>
+			<string>Dienste</string>
+			<key>724.title</key>
+			<string>Einstellungen...</string>
+			<key>726.title</key>
+			<string>Disk Alarm beenden</string>
+			<key>727.title</key>
+			<string>Alle einblenden</string>
+			<key>728.title</key>
+			<string>Disk Alarm ausblenden</string>
+			<key>729.title</key>
+			<string>Über Disk Alarm</string>
+			<key>730.title</key>
+			<string>Dienste</string>
+			<key>731.title</key>
+			<string>Hilfe</string>
+			<key>732.title</key>
+			<string>Disk Alarm-Hilfe</string>
 			<key>739.placeholderString</key>
 			<string>mail@example.com</string>
 			<key>741.title</key>
@@ -104,6 +142,26 @@
 			<string>Enter Full Screen</string>
 			<key>772.ibShadowedToolTip</key>
 			<string>Achtung: Dein Ton ist momentan aus. Schalte den Ton ein, damit Disk Alarm gehört werden kann.</string>
+			<key>862.title</key>
+			<string>Schließen</string>
+			<key>921.ibExternalAccessibilityDescription</key>
+			<string></string>
+			<key>925.title</key>
+			<string>Volum hinzufügen...</string>
+			<key>959.title</key>
+			<string>OtherViews</string>
+			<key>960.title</key>
+			<string>Mail</string>
+			<key>961.title</key>
+			<string>Sparrow</string>
+			<key>964.title</key>
+			<string></string>
+			<key>969.placeholderString</key>
+			<string>mail@example.com</string>
+			<key>971.title</key>
+			<string></string>
+			<key>999.title</key>
+			<string></string>
 			<key>ADD_IN_MENU_BAR</key>
 			<string>Freien Platz in der Menüleiste addieren</string>
 			<key>ADD_TO_LOGIN_ADD_IT</key>
@@ -1829,7 +1887,10 @@ support@diskalarm.com
 				<string>/* Class = "NSTextFieldCell"; title = "Display alarm when free space goes below:"; ObjectID = "999"; */</string>
 			</dict>
 			<key>dirtyFlags</key>
-			<dict/>
+			<dict>
+				<key>de</key>
+				<true/>
+			</dict>
 			<key>exportHashes</key>
 			<dict/>
 			<key>nativeStrings</key>
