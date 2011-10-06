@@ -931,6 +931,8 @@ support@diskalarm.com
 		</dict>
 		<key>it</key>
 		<dict>
+			<key>2 minutes</key>
+			<string>2 minuti</string>
 			<key>371.title</key>
 			<string>Disk Alarm</string>
 			<key>536.title</key>
@@ -1028,20 +1030,38 @@ support@diskalarm.com
 			<string> Puoi nascondere la finestra usando la combinazione di tasti ⌘W.</string>
 			<key>ALERT_SURE_QUIT_TITLE</key>
 			<string>Sei sicuro di voler chiudere?</string>
+			<key>About Disk Alarm</key>
+			<string>Informazioni su Disk Alarm</string>
+			<key>Add a Volume</key>
+			<string>Aggiungi un disco</string>
+			<key>Automatically check every</key>
+			<string>Controlla automaticamente ogni</string>
 			<key>BUY_MAS</key>
 			<string>Compra</string>
 			<key>BUY_MAS_TEXT</key>
 			<string>Disk Alarm per PowerPC è gratis. Se ti è piaciuto, pensa a supportare il suo sviluppo comprando la versione Intel sul Mac App Store. Grazie</string>
 			<key>BYTES</key>
 			<string>bytes</string>
+			<key>Bring All to Front</key>
+			<string>Porta tutto in primo piano</string>
 			<key>CALCULATING_SIZE</key>
 			<string>Calcolo la dimensione...</string>
 			<key>CANCEL</key>
 			<string>Cancella</string>
 			<key>CHECK_NOW_NO_TARGET</key>
 			<string>Non è stato selezionato nessun volume. Aggiungi un volume...</string>
+			<key>Check Now</key>
+			<string>Controlla ora</string>
+			<key>Close</key>
+			<string>Chiudi</string>
 			<key>DONT_QUIT</key>
 			<string>Cancella</string>
+			<key>Disk Alarm</key>
+			<string>Disk Alarm</string>
+			<key>Disk Alarm Help</key>
+			<string>Aiuto Disk Alarm</string>
+			<key>Display alarm when free space goes below:</key>
+			<string>Mostra un avviso quando lo spazio libero scende sotto i:</string>
 			<key>EMAIL_BODY</key>
 			<string>Ciao,
 
@@ -1064,8 +1084,16 @@ support@diskalarm.com
 			<string>Errore: Non è possibile calcolare le dimensioni del File System!</string>
 			<key>ERROR_CANT_GET_TOTAL_SIZE</key>
 			<string>Errore: Non è possibile calcolare lo spazio libero del sistema!</string>
+			<key>Enter Full Screen</key>
+			<string>Attiva modalità a tutto schermo</string>
 			<key>HIDE</key>
 			<string>Nascondi</string>
+			<key>Help</key>
+			<string>Aiuto</string>
+			<key>Hide Disk Alarm</key>
+			<string>Nascondi Disk Alarm</string>
+			<key>Hide Others</key>
+			<string>Nascondi altre</string>
 			<key>LAST_CHECKED_SIZE</key>
 			<string>Ultima verifica: %@</string>
 			<key>LEFT_ON_TOTAL_AT</key>
@@ -1074,18 +1102,34 @@ support@diskalarm.com
 			<string>minuto</string>
 			<key>MINUTES</key>
 			<string>%d minuti</string>
+			<key>Mail</key>
+			<string>Mail</string>
+			<key>Mailplane</key>
+			<string>Mailplane</string>
+			<key>Main Menu</key>
+			<string>Main Menu</string>
+			<key>Minimize</key>
+			<string>Contrai</string>
 			<key>NEVER</key>
 			<string>Mai</string>
 			<key>NOT_FOUND</key>
 			<string>Mancante</string>
+			<key>OtherViews</key>
+			<string>OtherViews</string>
 			<key>PERMISSION_DENIED</key>
 			<string>Permesso Rifiutato</string>
 			<key>PREFERENCES</key>
 			<string>Preferenze...</string>
+			<key>Play sound when displaying alarm</key>
+			<string>Messaggio con suono</string>
+			<key>Preferences…</key>
+			<string>Preferenze…</string>
 			<key>QUIT</key>
 			<string>Chiudi</string>
 			<key>QUIT_DISK_ALARM</key>
 			<string>Chiudi Disk Alarm</string>
+			<key>Quit Disk Alarm</key>
+			<string>Esci da Disk Alarm</string>
 			<key>RATE</key>
 			<string>Dai un giudizio</string>
 			<key>RATE_TEXT</key>
@@ -1096,6 +1140,14 @@ support@diskalarm.com
 			<string>In questo modo il volume selezionato non sarà più controllato e tutte le preferenze associate ad esso in Disk Alarm saranno cancellate.</string>
 			<key>REMOVE_TARGET_TITLE</key>
 			<string>Sei sicuro di voler rimuovere questo volume?</string>
+			<key>Send e-mail to</key>
+			<string>Manda un e-mail a</string>
+			<key>Services</key>
+			<string>Servizi</string>
+			<key>Show All</key>
+			<string>Mostra tutte</string>
+			<key>Sparrow</key>
+			<string>Sparrow</string>
 			<key>TARGET_NOT_FOUND</key>
 			<string>Il volume non è stato trovato quando è stato controllato l'ultima volta.</string>
 			<key>TWEET</key>
@@ -1106,12 +1158,22 @@ support@diskalarm.com
 			<string>Ti piace Disk Alarm? Prepareremo un Tweet per diffondere il tuo gradimento ma non lo posteremo al posto tuo!</string>
 			<key>UNDEFINED</key>
 			<string>Indefinito</string>
+			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
+			<string>ATTENZIONE: IL tuo volume è a zero. Per favore aumenta il volume per poter sentire l'allarme.</string>
 			<key>WARNING_LOW_SOUND</key>
 			<string>Che ne dici di alzare il volume per potter sentire meglio gli avvisi?.</string>
 			<key>WARNING_MUTE</key>
 			<string>ATTENZIONE: IL tuo volume è a zero. Per favore aumenta il volume per poter sentire l'allarme.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Il formato della mail inserito è errato.</string>
+			<key>Window</key>
+			<string>Finestra</string>
+			<key>Zoom</key>
+			<string>Ridimensiona</string>
+			<key>mail@example.com</key>
+			<string>mail@example.com</string>
+			<key>using</key>
+			<string>utilizza</string>
 		</dict>
 		<key>ja</key>
 		<dict>
@@ -1598,15 +1660,15 @@ support@diskalarm.com
 			<key>de</key>
 			<string>de</string>
 			<key>it</key>
-			<string>/Code/DiskAlarm/DiskAlarmMac/Translations</string>
+			<string>../it.lproj</string>
 		</dict>
 		<key>MiscDirectory</key>
-		<string>/Code/DiskAlarm/DiskAlarmMac/de.lproj</string>
+		<string>/Volumes/T-Italian</string>
 		<key>SourceDirectory</key>
 		<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj</string>
 	</dict>
 	<key>LastSelectedLanguage</key>
-	<string>de</string>
+	<string>it</string>
 	<key>OnlyShowEntriesWithoutTranslation</key>
 	<false/>
 	<key>SourceFiles</key>
@@ -2090,7 +2152,10 @@ support@diskalarm.com
 				<string>title</string>
 			</dict>
 			<key>dirtyFlags</key>
-			<dict/>
+			<dict>
+				<key>it</key>
+				<true/>
+			</dict>
 			<key>exportHashes</key>
 			<dict>
 				<key>de</key>
