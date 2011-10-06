@@ -10,6 +10,8 @@
 			<string>Mailplane</string>
 			<key>1004.title</key>
 			<string>Vollbild ein</string>
+			<key>1016.ibShadowedToolTip</key>
+			<string>Achtung: Dein Ton ist momentan aus. Schalte den Ton ein, damit Disk Alarm gehört werden kann.</string>
 			<key>371.title</key>
 			<string>Disk Alarm</string>
 			<key>536.title</key>
@@ -69,7 +71,7 @@
 			<key>711.title</key>
 			<string>Disk Alarm</string>
 			<key>712.title</key>
-			<string>Añadir un Volumen</string>
+			<string>Fenster</string>
 			<key>713.title</key>
 			<string>Fenster</string>
 			<key>714.title</key>
@@ -145,7 +147,7 @@
 			<key>862.title</key>
 			<string>Schließen</string>
 			<key>921.ibExternalAccessibilityDescription</key>
-			<string></string>
+			<string>ScrollView</string>
 			<key>925.title</key>
 			<string>Volum hinzufügen...</string>
 			<key>959.title</key>
@@ -155,13 +157,13 @@
 			<key>961.title</key>
 			<string>Sparrow</string>
 			<key>964.title</key>
-			<string></string>
+			<string>E-Mail senden an</string>
 			<key>969.placeholderString</key>
 			<string>mail@example.com</string>
 			<key>971.title</key>
-			<string></string>
+			<string>mit</string>
 			<key>999.title</key>
-			<string></string>
+			<string>Alarm anzeigen, wenn freier Speicher unter:</string>
 			<key>ADD_IN_MENU_BAR</key>
 			<string>Freien Platz in der Menüleiste addieren</string>
 			<key>ADD_TO_LOGIN_ADD_IT</key>
@@ -182,6 +184,10 @@
 			<string> Sie können auch nur das Fenster ausblenden mit ⌘W.</string>
 			<key>ALERT_SURE_QUIT_TITLE</key>
 			<string>Wollen Sie wircklich Disk Alarm beenden?</string>
+			<key>Add a Volume</key>
+			<string>Volum hinzufügen...</string>
+			<key>Automatically check every</key>
+			<string></string>
 			<key>BUY_MAS</key>
 			<string>Kaufen</string>
 			<key>BUY_MAS_TEXT</key>
@@ -194,8 +200,14 @@
 			<string>Abbrechen</string>
 			<key>CHECK_NOW_NO_TARGET</key>
 			<string>Kein Volume ist konfiguriert. Fügen Sie eine Volume hinzu, um es zu überwachen.</string>
+			<key>Check Now</key>
+			<string>Jetzt überprüfen</string>
 			<key>DONT_QUIT</key>
 			<string>Abbrechen</string>
+			<key>Disk Alarm</key>
+			<string>Disk Alarm</string>
+			<key>Disk Alarm Help</key>
+			<string>Disk Alarm-Hilfe</string>
 			<key>EMAIL_BODY</key>
 			<string>Hi,
 
@@ -222,8 +234,12 @@ support@diskalarm.com
 			<string>Fehler: Freier Platz kann nicht ermittelt werden!</string>
 			<key>EXIT_FULL_SCREEN</key>
 			<string>Vollbildmodus beenden</string>
+			<key>Enter Full Screen</key>
+			<string>Vollbild ein</string>
 			<key>HIDE</key>
 			<string>Ausblenden</string>
+			<key>Help</key>
+			<string></string>
 			<key>LAST_CHECKED_SIZE</key>
 			<string>Zuletzt überprüft: %@</string>
 			<key>LEFT_ON_TOTAL_AT</key>
@@ -255,6 +271,8 @@ support@diskalarm.com
 			<string>Das Volume wird dann nicht mehr überprüft und die Disk Alarm-Einstellungen für dieses Volume werden gelöscht.</string>
 			<key>REMOVE_TARGET_TITLE</key>
 			<string>Möchten Sie das Volume entfernen?</string>
+			<key>Send e-mail to</key>
+			<string>E-Mail senden an</string>
 			<key>TARGET_NOT_FOUND</key>
 			<string>Volume nicht gefunden bei letzter Überprüfung.</string>
 			<key>TWEET</key>
@@ -271,6 +289,8 @@ support@diskalarm.com
 			<string>Achtung: Dein Ton ist momentan aus. Schalte den Ton ein, damit Disk Alarm gehört werden kann.</string>
 			<key>WRONG_EMAIL</key>
 			<string>Ungültige E-Mail-Adresse</string>
+			<key>using</key>
+			<string>mit</string>
 		</dict>
 		<key>en</key>
 		<dict>
@@ -1573,6 +1593,13 @@ support@diskalarm.com
 	<true/>
 	<key>LastSelectedDirectories</key>
 	<dict>
+		<key>ExportDirectory</key>
+		<dict>
+			<key>de</key>
+			<string>de</string>
+			<key>it</key>
+			<string>/Code/DiskAlarm/DiskAlarmMac/Translations</string>
+		</dict>
 		<key>MiscDirectory</key>
 		<string>/Code/DiskAlarm/DiskAlarmMac/de.lproj</string>
 		<key>SourceDirectory</key>
@@ -1687,7 +1714,16 @@ support@diskalarm.com
 			<key>dirtyFlags</key>
 			<dict/>
 			<key>exportHashes</key>
-			<dict/>
+			<dict>
+				<key>de</key>
+				<data>
+				iFb+uO+zhjrRFdnbZeI7kaabvhE=
+				</data>
+				<key>it</key>
+				<data>
+				iFb+uO+zhjrRFdnbZeI7kaabvhE=
+				</data>
+			</dict>
 			<key>nativeStrings</key>
 			<dict>
 				<key>ADD_IN_MENU_BAR</key>
@@ -1802,7 +1838,7 @@ support@diskalarm.com
 			<key>path</key>
 			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/Localizable.strings</string>
 			<key>referenceStyle</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>reparseHash</key>
 			<data>
 			iFb+uO+zhjrRFdnbZeI7kaabvhE=
@@ -1887,12 +1923,18 @@ support@diskalarm.com
 				<string>/* Class = "NSTextFieldCell"; title = "Display alarm when free space goes below:"; ObjectID = "999"; */</string>
 			</dict>
 			<key>dirtyFlags</key>
+			<dict/>
+			<key>exportHashes</key>
 			<dict>
 				<key>de</key>
-				<true/>
+				<data>
+				VDOB9FE6GuepRTajLfNeyEnG2U4=
+				</data>
+				<key>it</key>
+				<data>
+				VDOB9FE6GuepRTajLfNeyEnG2U4=
+				</data>
 			</dict>
-			<key>exportHashes</key>
-			<dict/>
 			<key>nativeStrings</key>
 			<dict>
 				<key>1003.title</key>
@@ -1973,7 +2015,7 @@ support@diskalarm.com
 			<key>path</key>
 			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/MainMenu.strings</string>
 			<key>referenceStyle</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>reparseHash</key>
 			<data>
 			VDOB9FE6GuepRTajLfNeyEnG2U4=
@@ -2050,7 +2092,16 @@ support@diskalarm.com
 			<key>dirtyFlags</key>
 			<dict/>
 			<key>exportHashes</key>
-			<dict/>
+			<dict>
+				<key>de</key>
+				<data>
+				5YSnxqs0eemiLye6dqERJG8/lxY=
+				</data>
+				<key>it</key>
+				<data>
+				5YSnxqs0eemiLye6dqERJG8/lxY=
+				</data>
+			</dict>
 			<key>nativeStrings</key>
 			<dict>
 				<key>2 minutes</key>
@@ -2121,7 +2172,7 @@ support@diskalarm.com
 			<key>path</key>
 			<string>/Code/DiskAlarm/DiskAlarmMac/English.lproj/MainMenu.xib</string>
 			<key>referenceStyle</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>reparseHash</key>
 			<data>
 			5YSnxqs0eemiLye6dqERJG8/lxY=
