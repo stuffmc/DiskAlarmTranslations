@@ -1615,7 +1615,7 @@ support@diskalarm.com
 			<key>Mailplane</key>
 			<string>Mailplane</string>
 			<key>Main Menu</key>
-			<string>Main Menu</string>
+			<string>Hoofdmenu</string>
 			<key>Minimize</key>
 			<string>Minimaliseer</string>
 			<key>NEVER</key>
@@ -1670,7 +1670,7 @@ support@diskalarm.com
 			<key>UNDEFINED</key>
 			<string>Ongedefini√©erd</string>
 			<key>WARNING: Your sound is currently muted. Please unmute it for the Alarm to work.</key>
-			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om de Alarm te horen.</string>
+			<string>PAS OP: Je geluid is uit. Gelieve het aan te zetten om het Alarm te horen.</string>
 			<key>WARNING_LOW_SOUND</key>
 			<string>You might want to consider cranking up the volume a little bit to clearly hear the Sound.</string>
 			<key>WARNING_MUTE</key>
@@ -1986,16 +1986,7 @@ support@diskalarm.com
 				<string>// =====</string>
 			</dict>
 			<key>dirtyFlags</key>
-			<dict>
-				<key>es</key>
-				<true/>
-				<key>it</key>
-				<true/>
-				<key>nl</key>
-				<true/>
-				<key>pt_BR</key>
-				<true/>
-			</dict>
+			<dict/>
 			<key>exportHashes</key>
 			<dict>
 				<key>de</key>
@@ -2374,15 +2365,7 @@ support@diskalarm.com
 			</dict>
 			<key>dirtyFlags</key>
 			<dict>
-				<key>es</key>
-				<true/>
-				<key>fr</key>
-				<true/>
-				<key>it</key>
-				<true/>
 				<key>nl</key>
-				<true/>
-				<key>pt_BR</key>
 				<true/>
 			</dict>
 			<key>exportHashes</key>
